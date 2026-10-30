@@ -1,53 +1,89 @@
 {
-  "updated_at": "2026-10-30T18:00:51.278299+00:00",
+  "updated_at": "2026-10-30T23:46:43.690150+00:00",
   "jobs": [
     {
+      "title": "Growth Operations Manager",
+      "company": "NVE Experience Agency",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158107-growth-operations-manager",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T17:43:39+00:00"
+    },
+    {
+      "title": "Deal Operations Strategist",
+      "company": "Elevenlabs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158102-deal-operations-strategist",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T17:43:31+00:00"
+    },
+    {
+      "title": "Senior Client Success Manager - Strategic Accounts",
+      "company": "Rithum",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158100-senior-client-success-manager-strategic-accounts",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T17:43:28+00:00"
+    },
+    {
       "title": "Executive Assistant",
-      "company": "LevelUp",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/157986-executive-assistant-3",
+      "company": "Kaseya",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158093-executive-assistant-4",
       "source": "Jobicy",
       "families": [
         "executive"
       ],
       "salary": "",
-      "posted": "2026-10-30T11:26:30+00:00"
+      "posted": "2026-10-30T17:41:17+00:00"
     },
     {
-      "title": "Customer Success Specialist",
-      "company": "LevelUp",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/157982-customer-success-specialist-6",
+      "title": "Field Operations Specialist (Tasmania)",
+      "company": "Halter",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158083-field-operations-specialist-tasmania",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-10-30T11:26:24+00:00"
+      "posted": "2026-10-30T17:39:38+00:00"
     },
     {
-      "title": "Customer Support Specialist, Bilingual (English/Spanish)",
-      "company": "Roofr",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/157974-customer-support-specialist-bilingual-english-spanish",
+      "title": "AI & Automation Analyst",
+      "company": "UpGuard",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158081-ai-automation-analyst",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "ai"
       ],
       "salary": "",
-      "posted": "2026-10-30T11:20:48+00:00"
+      "posted": "2026-10-30T17:39:37+00:00"
     },
     {
-      "title": "Customer Success Manager",
-      "company": "Roofr",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/157970-customer-success-manager-57",
+      "title": "Field Operations Specialist (New South Wales)",
+      "company": "Halter",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158080-field-operations-specialist-new-south-wales",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-10-30T11:20:42+00:00"
+      "posted": "2026-10-30T17:39:35+00:00"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -229,7 +265,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 7
     },
     {
       "source": "Himalayas",
