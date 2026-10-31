@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-10-31T17:15:08.575312+00:00",
+  "updated_at": "2026-10-31T23:24:02.967852+00:00",
   "jobs": [
+    {
+      "title": "Enterprise Customer Success Manager",
+      "company": "AlertMedia",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158230-enterprise-customer-success-manager-11",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T17:03:23+00:00"
+    },
     {
       "title": "Director, Internal AI Operations",
       "company": "LaunchDarkly",
@@ -39,112 +51,16 @@
       "posted": "2026-10-31T10:57:27+00:00"
     },
     {
-      "title": "SMB Customer Success Manager - Americas",
-      "company": "Ashby",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/158197-smb-customer-success-manager-americas",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:10:30+00:00"
-    },
-    {
-      "title": "Implementation Consultant - Americas",
-      "company": "Ashby",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/158184-implementation-consultant-americas",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:50+00:00"
-    },
-    {
-      "title": "Sr. Revenue Operations Analyst",
-      "company": "Instructure",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158181-sr-revenue-operations-analyst-2",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:45+00:00"
-    },
-    {
-      "title": "Performance Marketing & Marketing Operations Manager (United States)",
-      "company": "Appen",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158180-performance-marketing-marketing-operations-manager-united-states",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:43+00:00"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "Mercury",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158176-customer-support-specialist-7",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:20+00:00"
-    },
-    {
-      "title": "Director, Customer Success",
-      "company": "Instructure",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158174-director-customer-success",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:17+00:00"
-    },
-    {
-      "title": "Performance Marketing & Marketing Operations Manager (Canada)",
-      "company": "Appen",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/158173-performance-marketing-marketing-operations-manager-canada",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:15+00:00"
-    },
-    {
-      "title": "Recruiting Operations Consultant",
-      "company": "Ashby",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/158170-recruiting-operations-consultant",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T10:09:11+00:00"
-    },
-    {
-      "title": "Amazon Operations Manager - Hustler Marketing",
-      "company": "Hustler Marketing",
+      "title": "Regional Director of Clinical Operations (West Coast) - Remote",
+      "company": "M3 USA",
       "location": "",
-      "url": "https://himalayas.app/companies/hustler-marketing/jobs/amazon-operations-manager-hustler-marketing-3584845058?utm_source=api",
+      "url": "https://himalayas.app/companies/m3-com/jobs/regional-director-of-clinical-operations-west-coast-remote?utm_source=api",
       "source": "Himalayas",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "1793466768"
+      "posted": "1793489000"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -326,7 +242,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 11
+      "matches": 4
     },
     {
       "source": "Himalayas",
