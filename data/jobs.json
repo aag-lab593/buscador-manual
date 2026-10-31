@@ -1,89 +1,150 @@
 {
-  "updated_at": "2026-10-30T23:46:43.690150+00:00",
+  "updated_at": "2026-10-31T17:15:08.575312+00:00",
   "jobs": [
     {
-      "title": "Growth Operations Manager",
-      "company": "NVE Experience Agency",
+      "title": "Director, Internal AI Operations",
+      "company": "LaunchDarkly",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/158107-growth-operations-manager",
+      "url": "https://jobicy.com/jobs/158213-director-internal-ai-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations",
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T13:06:29+00:00"
+    },
+    {
+      "title": "Security Operations Analyst",
+      "company": "Huntress",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158202-security-operations-analyst-2",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-10-30T17:43:39+00:00"
+      "posted": "2026-10-31T10:57:30+00:00"
     },
     {
-      "title": "Deal Operations Strategist",
-      "company": "Elevenlabs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158102-deal-operations-strategist",
+      "title": "Senior HubSpot Implementation Specialist",
+      "company": "LevelUp",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/158200-senior-hubspot-implementation-specialist",
       "source": "Jobicy",
       "families": [
-        "operations"
+        "implementation"
       ],
       "salary": "",
-      "posted": "2026-10-30T17:43:31+00:00"
+      "posted": "2026-10-31T10:57:27+00:00"
     },
     {
-      "title": "Senior Client Success Manager - Strategic Accounts",
-      "company": "Rithum",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158100-senior-client-success-manager-strategic-accounts",
+      "title": "SMB Customer Success Manager - Americas",
+      "company": "Ashby",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/158197-smb-customer-success-manager-americas",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-10-30T17:43:28+00:00"
+      "posted": "2026-10-31T10:10:30+00:00"
     },
     {
-      "title": "Executive Assistant",
-      "company": "Kaseya",
+      "title": "Implementation Consultant - Americas",
+      "company": "Ashby",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/158184-implementation-consultant-americas",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T10:09:50+00:00"
+    },
+    {
+      "title": "Sr. Revenue Operations Analyst",
+      "company": "Instructure",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/158093-executive-assistant-4",
-      "source": "Jobicy",
-      "families": [
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T17:41:17+00:00"
-    },
-    {
-      "title": "Field Operations Specialist (Tasmania)",
-      "company": "Halter",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/158083-field-operations-specialist-tasmania",
+      "url": "https://jobicy.com/jobs/158181-sr-revenue-operations-analyst-2",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-10-30T17:39:38+00:00"
+      "posted": "2026-10-31T10:09:45+00:00"
     },
     {
-      "title": "AI & Automation Analyst",
-      "company": "UpGuard",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/158081-ai-automation-analyst",
-      "source": "Jobicy",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T17:39:37+00:00"
-    },
-    {
-      "title": "Field Operations Specialist (New South Wales)",
-      "company": "Halter",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/158080-field-operations-specialist-new-south-wales",
+      "title": "Performance Marketing & Marketing Operations Manager (United States)",
+      "company": "Appen",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158180-performance-marketing-marketing-operations-manager-united-states",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-10-30T17:39:35+00:00"
+      "posted": "2026-10-31T10:09:43+00:00"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "Mercury",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158176-customer-support-specialist-7",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T10:09:20+00:00"
+    },
+    {
+      "title": "Director, Customer Success",
+      "company": "Instructure",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158174-director-customer-success",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T10:09:17+00:00"
+    },
+    {
+      "title": "Performance Marketing & Marketing Operations Manager (Canada)",
+      "company": "Appen",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/158173-performance-marketing-marketing-operations-manager-canada",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T10:09:15+00:00"
+    },
+    {
+      "title": "Recruiting Operations Consultant",
+      "company": "Ashby",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/158170-recruiting-operations-consultant",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T10:09:11+00:00"
+    },
+    {
+      "title": "Amazon Operations Manager - Hustler Marketing",
+      "company": "Hustler Marketing",
+      "location": "",
+      "url": "https://himalayas.app/companies/hustler-marketing/jobs/amazon-operations-manager-hustler-marketing-3584845058?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1793466768"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -265,12 +326,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 7
+      "matches": 11
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
