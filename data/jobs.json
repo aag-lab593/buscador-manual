@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-01T17:56:05.464008+00:00",
+  "updated_at": "2026-11-01T23:36:05.523727+00:00",
   "jobs": [
+    {
+      "title": "Customer Success Manager",
+      "company": "Submittable",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158374-customer-success-manager-59",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-01T18:19:14+00:00"
+    },
     {
       "title": "Senior Customer Success Architect, CEUR",
       "company": "GitLab",
@@ -12,18 +24,6 @@
       ],
       "salary": "",
       "posted": "2026-11-01T08:54:11+00:00"
-    },
-    {
-      "title": "Regional Director of Clinical Operations (West Coast) - Remote",
-      "company": "M3 USA",
-      "location": "",
-      "url": "https://himalayas.app/companies/m3-com/jobs/regional-director-of-clinical-operations-west-coast-remote?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "1793489000"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -205,12 +205,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 1
+      "matches": 2
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     },
     {
       "source": "Remote OK",
