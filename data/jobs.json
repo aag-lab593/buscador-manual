@@ -1,29 +1,77 @@
 {
-  "updated_at": "2026-11-01T23:36:05.523727+00:00",
+  "updated_at": "2026-11-02T21:42:43.842905+00:00",
   "jobs": [
     {
-      "title": "Customer Success Manager",
-      "company": "Submittable",
+      "title": "Senior Manager, Payment Operations",
+      "company": "Dandy",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/158374-customer-success-manager-59",
+      "url": "https://jobicy.com/jobs/158559-senior-manager-payment-operations",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-01T18:19:14+00:00"
+      "posted": "2026-11-02T16:00:18+00:00"
     },
     {
-      "title": "Senior Customer Success Architect, CEUR",
-      "company": "GitLab",
-      "location": "Austria,  Germany",
-      "url": "https://jobicy.com/jobs/158353-senior-customer-success-architect-ceur",
+      "title": "Executive Assistant to the Chief Business Officer",
+      "company": "Dropbox",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158556-executive-assistant-to-the-chief-business-officer",
+      "source": "Jobicy",
+      "families": [
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-11-02T16:00:12+00:00"
+    },
+    {
+      "title": "Strategic Customer Success Manager - Italian Speaking",
+      "company": "Synthesia",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/158543-strategic-customer-success-manager-italian-speaking-2",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-01T08:54:11+00:00"
+      "posted": "2026-11-02T14:15:02+00:00"
+    },
+    {
+      "title": "Binance Accelerator Program - VIP Institutional Growth & Operations",
+      "company": "Binance",
+      "location": "Hong Kong,  Singapore,  UAE",
+      "url": "https://jobicy.com/jobs/158532-binance-accelerator-program-vip-institutional-growth-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-02T13:02:34+00:00"
+    },
+    {
+      "title": "Senior Customer Success Manager - APAC",
+      "company": "NetBox Labs",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158528-senior-customer-success-manager-apac",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-02T13:02:27+00:00"
+    },
+    {
+      "title": "Partner Operations Manager",
+      "company": "Mecka",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-01T00:00:08+00:00"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -135,18 +183,6 @@
       "posted": "2026-10-12T16:20:10+00:00"
     },
     {
-      "title": "Head of Operations",
-      "company": "Leverage Live Local",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-03T20:20:32+00:00"
-    },
-    {
       "title": "People Operations Coordinator",
       "company": "Ashby",
       "location": "",
@@ -194,6 +230,42 @@
       ],
       "salary": "",
       "posted": "2026-08-18T16:00:22+00:00"
+    },
+    {
+      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
+      "company": "relokate HR GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "source": "Arbeitnow",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Head of Strategy & Operations",
+      "company": "remove",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/remove/head-of-strategy-operations-berlin-406175",
+      "source": "Arbeitnow",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "IT Support Analyst – Application Operations",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+      "source": "Arbeitnow",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": ""
     }
   ],
   "sources": [
@@ -205,7 +277,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 2
+      "matches": 5
     },
     {
       "source": "Himalayas",
@@ -220,7 +292,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 0
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
