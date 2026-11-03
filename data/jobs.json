@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-11-02T21:42:43.842905+00:00",
+  "updated_at": "2026-11-03T19:29:48.257065+00:00",
   "jobs": [
     {
-      "title": "Senior Manager, Payment Operations",
-      "company": "Dandy",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158559-senior-manager-payment-operations",
+      "title": "Test Automation Engineer (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/158729-test-automation-engineer-f-m-d",
       "source": "Jobicy",
       "families": [
-        "operations"
+        "ai"
       ],
       "salary": "",
-      "posted": "2026-11-02T16:00:18+00:00"
+      "posted": "2026-11-03T15:22:20+00:00"
     },
     {
-      "title": "Executive Assistant to the Chief Business Officer",
-      "company": "Dropbox",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158556-executive-assistant-to-the-chief-business-officer",
-      "source": "Jobicy",
-      "families": [
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T16:00:12+00:00"
-    },
-    {
-      "title": "Strategic Customer Success Manager - Italian Speaking",
-      "company": "Synthesia",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/158543-strategic-customer-success-manager-italian-speaking-2",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T14:15:02+00:00"
-    },
-    {
-      "title": "Binance Accelerator Program - VIP Institutional Growth & Operations",
+      "title": "Binance Accelerator Program -Language Operations",
       "company": "Binance",
-      "location": "Hong Kong,  Singapore,  UAE",
-      "url": "https://jobicy.com/jobs/158532-binance-accelerator-program-vip-institutional-growth-operations",
+      "location": "Hong Kong",
+      "url": "https://jobicy.com/jobs/158692-binance-accelerator-program-language-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-02T13:02:34+00:00"
+      "posted": "2026-11-03T15:11:15+00:00"
     },
     {
-      "title": "Senior Customer Success Manager - APAC",
-      "company": "NetBox Labs",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/158528-senior-customer-success-manager-apac",
+      "title": "Customer Support Associate",
+      "company": "Fresh Prints",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/158691-customer-support-associate",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-02T13:02:27+00:00"
+      "posted": "2026-11-03T15:11:08+00:00"
+    },
+    {
+      "title": "Payroll Operations Specialist",
+      "company": "Mercury",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/158678-payroll-operations-specialist",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T14:21:41+00:00"
+    },
+    {
+      "title": "Software Engineer, Quality & Automation",
+      "company": "Fieldguide",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158677-software-engineer-quality-automation",
+      "source": "Jobicy",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T14:21:39+00:00"
     },
     {
       "title": "Partner Operations Manager",
@@ -108,19 +108,6 @@
       ],
       "salary": "",
       "posted": "2026-10-22T00:00:15+00:00"
-    },
-    {
-      "title": "Customer Support Consultant hospitality",
-      "company": "SupportYourApp",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-      "source": "Remote OK",
-      "families": [
-        "customer",
-        "hospitality"
-      ],
-      "salary": "",
-      "posted": "2026-10-19T16:00:04+00:00"
     },
     {
       "title": "Director of Product Management and IT Operations",
@@ -232,37 +219,75 @@
       "posted": "2026-08-18T16:00:22+00:00"
     },
     {
-      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
-      "company": "relokate HR GmbH",
+      "title": "Werkstudent Kunden-Onboarding (m/w/d)",
+      "company": "Cryptory GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "url": "https://www.arbeitnow.com/jobs/companies/cryptory-gmbh/werkstudent-kunden-onboarding-berlin-231969",
       "source": "Arbeitnow",
       "families": [
-        "ai"
+        "implementation"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "Head of Strategy & Operations",
-      "company": "remove",
+      "title": "Customer Success Onboarding Specialist (m/w/d)",
+      "company": "Pennylane GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/remove/head-of-strategy-operations-berlin-406175",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane-gmbh/customer-success-onboarding-specialist-berlin-474045",
       "source": "Arbeitnow",
       "families": [
-        "operations"
+        "customer",
+        "implementation"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "IT Support Analyst – Application Operations",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+      "title": "Customer Operations Manager B2B SaaS (w/m/d) – Technical Customer Success",
+      "company": "ParkEfficient",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/parkefficient/customer-operations-manager-b2b-saas-technical-customer-success-berlin-62143",
       "source": "Arbeitnow",
       "families": [
-        "operations"
+        "operations",
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Founding Customer Success Manager*in",
+      "company": "Yes Technology GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/yes-technology-gmbh/founding-customer-success-managerin-berlin-221159",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Moniepoint",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-senior-business-analyst-315883",
+      "source": "Arbeitnow",
+      "families": [
+        "business"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Senior Customer Success Manager*in (50-100%) Remote / Freelance",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/imnoo-ag/senior-customer-success-managerin-50-100-remote-freelance-zurich-34880",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -287,12 +312,12 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 14
+      "matches": 13
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 6
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
