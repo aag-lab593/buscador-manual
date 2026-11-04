@@ -1,65 +1,114 @@
 {
-  "updated_at": "2026-11-04T00:36:50.609898+00:00",
+  "updated_at": "2026-11-04T19:45:17.195432+00:00",
   "jobs": [
     {
-      "title": "Client Success Manager, Enterprise",
-      "company": "Doximity",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158815-client-success-manager-enterprise",
+      "title": "Senior People Operations Partner (LATAM)",
+      "company": "Precision Medicine Group",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/159005-senior-people-operations-partner-latam",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "operations",
+        "people"
       ],
       "salary": "",
-      "posted": "2026-11-03T18:26:06+00:00"
+      "posted": "2026-11-04T16:32:03+00:00"
     },
     {
-      "title": "Onboarding Manager, Bilingual (Spanish)",
-      "company": "Roofr",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/158813-onboarding-manager-bilingual-spanish",
+      "title": "Cloud Operations Engineer",
+      "company": "Varicent",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/158996-cloud-operations-engineer-3",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T16:31:33+00:00"
+    },
+    {
+      "title": "Senior Talent Acquisition Operations Specialist (Contract)",
+      "company": "Binance",
+      "location": "Hong Kong",
+      "url": "https://jobicy.com/jobs/158981-senior-talent-acquisition-operations-specialist-contract",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T13:58:39+00:00"
+    },
+    {
+      "title": "Onboarding Consultant, Menu",
+      "company": "Toast",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/158975-onboarding-consultant-menu",
       "source": "Jobicy",
       "families": [
         "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-03T18:26:04+00:00"
+      "posted": "2026-11-04T13:58:05+00:00"
     },
     {
-      "title": "Senior Customer Success Manager - DACH & North",
-      "company": "Amplitude",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/158782-senior-customer-success-manager-dach-north",
+      "title": "People Partner",
+      "company": "Customer.io",
+      "location": "LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/158965-people-partner-3",
       "source": "Jobicy",
       "families": [
+        "people"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T13:52:23+00:00"
+    },
+    {
+      "title": "Vertical Sales Strategy and Operations",
+      "company": "Elevenlabs",
+      "location": "UK,  USA",
+      "url": "https://jobicy.com/jobs/158959-vertical-sales-strategy-and-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T13:49:43+00:00"
+    },
+    {
+      "title": "Partnerships Strategy & Operations",
+      "company": "Elevenlabs",
+      "location": "UK,  USA",
+      "url": "https://jobicy.com/jobs/158957-partnerships-strategy-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T13:49:24+00:00"
+    },
+    {
+      "title": "Remote Travel Customer Support Specialist",
+      "company": "Hallford Travels",
+      "location": "",
+      "url": "https://himalayas.app/companies/hallford-travels/jobs/remote-travel-customer-support-specialist-8813024246?utm_source=api",
+      "source": "Himalayas",
+      "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-03T17:29:58+00:00"
+      "posted": "1793803057"
     },
     {
-      "title": "Senior QA Automation Engineer",
-      "company": "FYST",
+      "title": "Sales Operations Analyst",
+      "company": "Calabrio",
       "location": "",
-      "url": "https://himalayas.app/companies/fyst/jobs/senior-qa-automation-engineer-5791418106?utm_source=api",
-      "source": "Himalayas",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "source": "Remote OK",
       "families": [
-        "ai"
+        "operations"
       ],
       "salary": "",
-      "posted": "1793740316"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "MicroSourcing",
-      "location": "",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/customer-success-manager?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "1793739907"
+      "posted": "2026-11-03T16:00:05+00:00"
     },
     {
       "title": "Partner Operations Manager",
@@ -207,37 +256,37 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Senior Architect, Enterprise Agentic Automation",
-      "company": "Camunda",
+      "title": "People Partner Engineering & Product",
+      "company": "ElevenLabs",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-414791",
       "source": "Arbeitnow",
       "families": [
-        "ai"
+        "people"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "Werkstudent Kunden-Onboarding (m/w/d)",
-      "company": "Cryptory GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/cryptory-gmbh/werkstudent-kunden-onboarding-berlin-231969",
+      "title": "People Partner GTM",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-gtm-406041",
       "source": "Arbeitnow",
       "families": [
-        "implementation"
+        "people"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "Senior Business Analyst",
-      "company": "Moniepoint",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-senior-business-analyst-315883",
+      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+      "company": "Patrique Mercier Recruitment Fr",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
       "source": "Arbeitnow",
       "families": [
-        "business"
+        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -252,17 +301,17 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 7
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 2
+      "matches": 1
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 12
+      "matches": 13
     },
     {
       "source": "Arbeitnow",
