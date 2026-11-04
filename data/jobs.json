@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-11-03T19:29:48.257065+00:00",
+  "updated_at": "2026-11-04T00:36:50.609898+00:00",
   "jobs": [
     {
-      "title": "Test Automation Engineer (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
-      "url": "https://jobicy.com/jobs/158729-test-automation-engineer-f-m-d",
-      "source": "Jobicy",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T15:22:20+00:00"
-    },
-    {
-      "title": "Binance Accelerator Program -Language Operations",
-      "company": "Binance",
-      "location": "Hong Kong",
-      "url": "https://jobicy.com/jobs/158692-binance-accelerator-program-language-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T15:11:15+00:00"
-    },
-    {
-      "title": "Customer Support Associate",
-      "company": "Fresh Prints",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/158691-customer-support-associate",
+      "title": "Client Success Manager, Enterprise",
+      "company": "Doximity",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158815-client-success-manager-enterprise",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-03T15:11:08+00:00"
+      "posted": "2026-11-03T18:26:06+00:00"
     },
     {
-      "title": "Payroll Operations Specialist",
-      "company": "Mercury",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/158678-payroll-operations-specialist",
+      "title": "Onboarding Manager, Bilingual (Spanish)",
+      "company": "Roofr",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/158813-onboarding-manager-bilingual-spanish",
       "source": "Jobicy",
       "families": [
-        "operations"
+        "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-03T14:21:41+00:00"
+      "posted": "2026-11-03T18:26:04+00:00"
     },
     {
-      "title": "Software Engineer, Quality & Automation",
-      "company": "Fieldguide",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158677-software-engineer-quality-automation",
+      "title": "Senior Customer Success Manager - DACH & North",
+      "company": "Amplitude",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/158782-senior-customer-success-manager-dach-north",
       "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T17:29:58+00:00"
+    },
+    {
+      "title": "Senior QA Automation Engineer",
+      "company": "FYST",
+      "location": "",
+      "url": "https://himalayas.app/companies/fyst/jobs/senior-qa-automation-engineer-5791418106?utm_source=api",
+      "source": "Himalayas",
       "families": [
         "ai"
       ],
       "salary": "",
-      "posted": "2026-11-03T14:21:39+00:00"
+      "posted": "1793740316"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "MicroSourcing",
+      "location": "",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/customer-success-manager?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "1793739907"
     },
     {
       "title": "Partner Operations Manager",
@@ -207,16 +207,16 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Digital Workplace & Automation Specialist",
-      "company": "Dreem Health",
-      "location": "United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "source": "Remote OK",
+      "title": "Senior Architect, Enterprise Agentic Automation",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
+      "source": "Arbeitnow",
       "families": [
         "ai"
       ],
       "salary": "",
-      "posted": "2026-08-18T16:00:22+00:00"
+      "posted": ""
     },
     {
       "title": "Werkstudent Kunden-Onboarding (m/w/d)",
@@ -226,44 +226,6 @@
       "source": "Arbeitnow",
       "families": [
         "implementation"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Success Onboarding Specialist (m/w/d)",
-      "company": "Pennylane GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pennylane-gmbh/customer-success-onboarding-specialist-berlin-474045",
-      "source": "Arbeitnow",
-      "families": [
-        "customer",
-        "implementation"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Operations Manager B2B SaaS (w/m/d) – Technical Customer Success",
-      "company": "ParkEfficient",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/parkefficient/customer-operations-manager-b2b-saas-technical-customer-success-berlin-62143",
-      "source": "Arbeitnow",
-      "families": [
-        "operations",
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Founding Customer Success Manager*in",
-      "company": "Yes Technology GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/yes-technology-gmbh/founding-customer-success-managerin-berlin-221159",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -279,18 +241,6 @@
       ],
       "salary": "",
       "posted": ""
-    },
-    {
-      "title": "Senior Customer Success Manager*in (50-100%) Remote / Freelance",
-      "company": "Imnoo AG",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/imnoo-ag/senior-customer-success-managerin-50-100-remote-freelance-zurich-34880",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -302,22 +252,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 5
+      "matches": 3
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 2
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 13
+      "matches": 12
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 6
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
