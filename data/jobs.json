@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:45:17.195432+00:00",
+  "updated_at": "2026-11-05T00:54:48.411980+00:00",
   "jobs": [
     {
       "title": "Senior People Operations Partner (LATAM)",
@@ -63,42 +63,6 @@
       "posted": "2026-11-04T13:52:23+00:00"
     },
     {
-      "title": "Vertical Sales Strategy and Operations",
-      "company": "Elevenlabs",
-      "location": "UK,  USA",
-      "url": "https://jobicy.com/jobs/158959-vertical-sales-strategy-and-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T13:49:43+00:00"
-    },
-    {
-      "title": "Partnerships Strategy & Operations",
-      "company": "Elevenlabs",
-      "location": "UK,  USA",
-      "url": "https://jobicy.com/jobs/158957-partnerships-strategy-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T13:49:24+00:00"
-    },
-    {
-      "title": "Remote Travel Customer Support Specialist",
-      "company": "Hallford Travels",
-      "location": "",
-      "url": "https://himalayas.app/companies/hallford-travels/jobs/remote-travel-customer-support-specialist-8813024246?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "1793803057"
-    },
-    {
       "title": "Sales Operations Analyst",
       "company": "Calabrio",
       "location": "",
@@ -135,18 +99,6 @@
       "posted": "2026-10-29T16:00:03+00:00"
     },
     {
-      "title": "Accounting and Implementation Manager",
-      "company": "Aprio",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-      "source": "Remote OK",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T08:00:05+00:00"
-    },
-    {
       "title": "Accounting Operations",
       "company": "Plaid",
       "location": "",
@@ -181,18 +133,6 @@
       ],
       "salary": "",
       "posted": "2026-10-16T00:00:43+00:00"
-    },
-    {
-      "title": "Payment Operations Specialist",
-      "company": "Utopia",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-14T16:00:05+00:00"
     },
     {
       "title": "Customer Support Specialist",
@@ -256,6 +196,42 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
+      "title": "Operations Engineer II",
+      "company": "AWeber",
+      "location": "Uluberia-II, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:02:29+00:00"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "Resource Guru",
+      "location": "Greater London, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T14:24:36+00:00"
+    },
+    {
+      "title": "Customer Success Manager (m/w/d) – B2B Kundenbetreuung",
+      "company": "ProviPanda GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-b2b-kundenbetreuung-berlin-55139",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
       "title": "People Partner Engineering & Product",
       "company": "ElevenLabs",
       "location": "Remote",
@@ -301,12 +277,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 7
+      "matches": 5
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     },
     {
       "source": "Remote OK",
@@ -316,7 +292,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 4
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
