@@ -1,66 +1,53 @@
 {
-  "updated_at": "2026-11-05T00:54:48.411980+00:00",
+  "updated_at": "2026-11-05T19:57:05.745392+00:00",
   "jobs": [
     {
-      "title": "Senior People Operations Partner (LATAM)",
-      "company": "Precision Medicine Group",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/159005-senior-people-operations-partner-latam",
-      "source": "Jobicy",
-      "families": [
-        "operations",
-        "people"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T16:32:03+00:00"
-    },
-    {
-      "title": "Cloud Operations Engineer",
-      "company": "Varicent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/158996-cloud-operations-engineer-3",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T16:31:33+00:00"
-    },
-    {
-      "title": "Senior Talent Acquisition Operations Specialist (Contract)",
+      "title": "Sanctions Operations Analyst (1 year contract)",
       "company": "Binance",
-      "location": "Hong Kong",
-      "url": "https://jobicy.com/jobs/158981-senior-talent-acquisition-operations-specialist-contract",
+      "location": "Argentina,  Hong Kong,  Singapore,  UAE",
+      "url": "https://jobicy.com/jobs/159169-sanctions-operations-analyst-1-year-contract",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-04T13:58:39+00:00"
+      "posted": "2026-11-05T14:04:46+00:00"
     },
     {
-      "title": "Onboarding Consultant, Menu",
-      "company": "Toast",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/158975-onboarding-consultant-menu",
+      "title": "Customer Operations Manager, Gainsight",
+      "company": "AlphaSense",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159147-customer-operations-manager-gainsight",
       "source": "Jobicy",
       "families": [
-        "implementation"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-04T13:58:05+00:00"
+      "posted": "2026-11-05T13:55:52+00:00"
     },
     {
-      "title": "People Partner",
-      "company": "Customer.io",
-      "location": "LATAM,  Canada,  USA",
-      "url": "https://jobicy.com/jobs/158965-people-partner-3",
+      "title": "Senior Manager, Sales Operations",
+      "company": "ANGI",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159142-senior-manager-sales-operations",
       "source": "Jobicy",
       "families": [
-        "people"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-04T13:52:23+00:00"
+      "posted": "2026-11-05T13:55:18+00:00"
+    },
+    {
+      "title": "Customer Support - Remote in Portugal",
+      "company": "Job Traveler",
+      "location": "",
+      "url": "https://himalayas.app/companies/job-traveler/jobs/customer-support-remote-in-portugal?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "1793907145"
     },
     {
       "title": "Sales Operations Analyst",
@@ -220,10 +207,10 @@
       "posted": "2026-08-01T14:24:36+00:00"
     },
     {
-      "title": "Customer Success Manager (m/w/d) – B2B Kundenbetreuung",
-      "company": "ProviPanda GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-b2b-kundenbetreuung-berlin-55139",
+      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+      "company": "Patrique Mercier Recruitment Fr",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
       "source": "Arbeitnow",
       "families": [
         "customer"
@@ -232,25 +219,13 @@
       "posted": ""
     },
     {
-      "title": "People Partner Engineering & Product",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-414791",
+      "title": "Business Analyst - Krankenversicherung",
+      "company": "Coopers Group AG",
+      "location": "Solothurn",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analyst-krankenversicherung-solothurn-487230",
       "source": "Arbeitnow",
       "families": [
-        "people"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "People Partner GTM",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-gtm-406041",
-      "source": "Arbeitnow",
-      "families": [
-        "people"
+        "business"
       ],
       "salary": "",
       "posted": ""
@@ -277,12 +252,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 5
+      "matches": 3
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
@@ -292,7 +267,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 4
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
