@@ -1,114 +1,78 @@
 {
-  "updated_at": "2026-11-06T00:57:54.012024+00:00",
+  "updated_at": "2026-11-06T19:24:28.467589+00:00",
   "jobs": [
     {
-      "title": "Senior Implementation Consultant (French)",
-      "company": "1Password",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159210-senior-implementation-consultant-french",
+      "title": "Head of AI Native Operations",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
       "source": "Jobicy",
       "families": [
-        "implementation"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-05T20:05:42+00:00"
+      "posted": "2026-11-06T16:02:00+00:00"
     },
     {
-      "title": "Onboarding Coach - LATAM",
-      "company": "Cloudbeds",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/159203-onboarding-coach-latam",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T19:26:41+00:00"
-    },
-    {
-      "title": "Customer Onboarding Specialist",
-      "company": "Housecall Pro",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/159198-customer-onboarding-specialist-2",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T19:26:33+00:00"
-    },
-    {
-      "title": "Customer Support (Season Contractor)",
-      "company": "CoinTracker",
+      "title": "Senior People Operations Coordinator, Claude Corps",
+      "company": "CodePath",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/159189-customer-support-season-contractor",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T19:23:58+00:00"
-    },
-    {
-      "title": "Website Onboarding Specialist - Thailand",
-      "company": "Cloudbeds",
-      "location": "Thailand",
-      "url": "https://jobicy.com/jobs/159179-website-onboarding-specialist-thailand",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T18:11:04+00:00"
-    },
-    {
-      "title": "Lead, Customer Support - Thailand",
-      "company": "Cloudbeds",
-      "location": "Thailand",
-      "url": "https://jobicy.com/jobs/159177-lead-customer-support-thailand",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T18:11:03+00:00"
-    },
-    {
-      "title": "Associate Director, People Operations",
-      "company": "Precision Medicine Group",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/159174-associate-director-people-operations",
+      "url": "https://jobicy.com/jobs/159333-senior-people-operations-coordinator-claude-corps",
       "source": "Jobicy",
       "families": [
         "operations",
         "people"
       ],
       "salary": "",
-      "posted": "2026-11-05T18:10:43+00:00"
+      "posted": "2026-11-06T15:07:34+00:00"
     },
     {
-      "title": "Sanctions Operations Analyst (1 year contract)",
-      "company": "Binance",
-      "location": "Argentina,  Hong Kong,  Singapore,  UAE",
-      "url": "https://jobicy.com/jobs/159169-sanctions-operations-analyst-1-year-contract",
+      "title": "Head of Tutor Strategy & Operations",
+      "company": "ClassDojo",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159331-head-of-tutor-strategy-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-05T14:04:46+00:00"
+      "posted": "2026-11-06T15:07:30+00:00"
     },
     {
-      "title": "Consultant, Ad Operations",
-      "company": "TransUnion",
+      "title": "Bilingual Customer Experience T3 Specialist (Spanish)",
+      "company": "Instacart",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159327-bilingual-customer-experience-t3-specialist-spanish",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T15:07:23+00:00"
+    },
+    {
+      "title": "Sr. Manager, Recruiting Operations",
+      "company": "Samsara",
       "location": "",
-      "url": "https://himalayas.app/companies/transunion/jobs/consultant-ad-operations?utm_source=api",
+      "url": "https://himalayas.app/companies/samsara/jobs/sr-manager-recruiting-operations?utm_source=api",
       "source": "Himalayas",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "1793926635"
+      "posted": "1793991094"
+    },
+    {
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "company": "Toptal",
+      "location": "Anywhere in the World",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T15:01:09+00:00"
     },
     {
       "title": "Sales Operations Analyst",
@@ -256,22 +220,10 @@
       "posted": "2026-08-04T23:02:29+00:00"
     },
     {
-      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
-      "company": "Patrique Mercier Recruitment Fr",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Business Analyst - Krankenversicherung",
+      "title": "Business Analyst:in",
       "company": "Coopers Group AG",
-      "location": "Solothurn",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analyst-krankenversicherung-solothurn-487230",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analystin-zurich-278509",
       "source": "Arbeitnow",
       "families": [
         "business"
@@ -289,7 +241,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 8
+      "matches": 4
     },
     {
       "source": "Himalayas",
@@ -299,12 +251,12 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 12
+      "matches": 13
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 2
+      "matches": 1
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
