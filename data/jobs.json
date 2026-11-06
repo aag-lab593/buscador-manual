@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-11-05T19:57:05.745392+00:00",
+  "updated_at": "2026-11-06T00:57:54.012024+00:00",
   "jobs": [
+    {
+      "title": "Senior Implementation Consultant (French)",
+      "company": "1Password",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159210-senior-implementation-consultant-french",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T20:05:42+00:00"
+    },
+    {
+      "title": "Onboarding Coach - LATAM",
+      "company": "Cloudbeds",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/159203-onboarding-coach-latam",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T19:26:41+00:00"
+    },
+    {
+      "title": "Customer Onboarding Specialist",
+      "company": "Housecall Pro",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/159198-customer-onboarding-specialist-2",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T19:26:33+00:00"
+    },
+    {
+      "title": "Customer Support (Season Contractor)",
+      "company": "CoinTracker",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159189-customer-support-season-contractor",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T19:23:58+00:00"
+    },
+    {
+      "title": "Website Onboarding Specialist - Thailand",
+      "company": "Cloudbeds",
+      "location": "Thailand",
+      "url": "https://jobicy.com/jobs/159179-website-onboarding-specialist-thailand",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T18:11:04+00:00"
+    },
+    {
+      "title": "Lead, Customer Support - Thailand",
+      "company": "Cloudbeds",
+      "location": "Thailand",
+      "url": "https://jobicy.com/jobs/159177-lead-customer-support-thailand",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T18:11:03+00:00"
+    },
+    {
+      "title": "Associate Director, People Operations",
+      "company": "Precision Medicine Group",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/159174-associate-director-people-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations",
+        "people"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T18:10:43+00:00"
+    },
     {
       "title": "Sanctions Operations Analyst (1 year contract)",
       "company": "Binance",
@@ -14,40 +99,16 @@
       "posted": "2026-11-05T14:04:46+00:00"
     },
     {
-      "title": "Customer Operations Manager, Gainsight",
-      "company": "AlphaSense",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159147-customer-operations-manager-gainsight",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T13:55:52+00:00"
-    },
-    {
-      "title": "Senior Manager, Sales Operations",
-      "company": "ANGI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159142-senior-manager-sales-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T13:55:18+00:00"
-    },
-    {
-      "title": "Customer Support - Remote in Portugal",
-      "company": "Job Traveler",
+      "title": "Consultant, Ad Operations",
+      "company": "TransUnion",
       "location": "",
-      "url": "https://himalayas.app/companies/job-traveler/jobs/customer-support-remote-in-portugal?utm_source=api",
+      "url": "https://himalayas.app/companies/transunion/jobs/consultant-ad-operations?utm_source=api",
       "source": "Himalayas",
       "families": [
-        "customer"
+        "operations"
       ],
       "salary": "",
-      "posted": "1793907145"
+      "posted": "1793926635"
     },
     {
       "title": "Sales Operations Analyst",
@@ -195,18 +256,6 @@
       "posted": "2026-08-04T23:02:29+00:00"
     },
     {
-      "title": "Customer Support Specialist",
-      "company": "Resource Guru",
-      "location": "Greater London, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T14:24:36+00:00"
-    },
-    {
       "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
       "company": "Patrique Mercier Recruitment Fr",
       "location": "France",
@@ -229,18 +278,6 @@
       ],
       "salary": "",
       "posted": ""
-    },
-    {
-      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
-      "company": "Patrique Mercier Recruitment Fr",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -252,7 +289,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 8
     },
     {
       "source": "Himalayas",
@@ -262,12 +299,12 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 13
+      "matches": 12
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 2
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
