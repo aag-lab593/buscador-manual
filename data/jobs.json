@@ -1,114 +1,41 @@
 {
-  "updated_at": "2026-11-07T00:06:49.951264+00:00",
+  "updated_at": "2026-11-07T17:44:51.103382+00:00",
   "jobs": [
     {
-      "title": "Security Operations Engineer",
-      "company": "Samsara",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159442-security-operations-engineer",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:58:07+00:00"
-    },
-    {
-      "title": "Customer Success Account Manager, Mid-Market - German",
-      "company": "Samsara",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159427-customer-success-account-manager-mid-market-german",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:56:55+00:00"
-    },
-    {
-      "title": "Customer Success Account Manager, Mid-Market",
-      "company": "Samsara",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159424-customer-success-account-manager-mid-market",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:56:50+00:00"
-    },
-    {
-      "title": "Customer Success Account Manager, Digital - German",
-      "company": "Samsara",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159421-customer-success-account-manager-digital-german",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:56:18+00:00"
-    },
-    {
-      "title": "Customer Success Account Manager, Digital - French",
-      "company": "Samsara",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159418-customer-success-account-manager-digital-french",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:56:13+00:00"
-    },
-    {
-      "title": "Service Desk L3 - IT Operations Technical Lead",
-      "company": "Nebius",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/159417-service-desk-l3-it-operations-technical-lead",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:56:11+00:00"
-    },
-    {
-      "title": "Director, Marketing Operations",
-      "company": "Maven Clinic",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159413-director-marketing-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T17:07:03+00:00"
-    },
-    {
-      "title": "Strategy & Operations, Customer Success",
+      "title": "Mid-Market Customer Success Manager - Americas",
       "company": "Ashby",
       "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/159400-strategy-operations-customer-success-2",
+      "url": "https://jobicy.com/jobs/159550-mid-market-customer-success-manager-americas",
       "source": "Jobicy",
       "families": [
-        "operations",
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-06T17:05:56+00:00"
+      "posted": "2026-11-07T14:25:26+00:00"
     },
     {
-      "title": "Senior QA Automation Engineer (Playwright)",
-      "company": "Valtech",
-      "location": "",
-      "url": "https://himalayas.app/companies/valtech-us/jobs/senior-qa-automation-engineer-playwright?utm_source=api",
-      "source": "Himalayas",
+      "title": "Staff Revenue Operations Manager - EMEA",
+      "company": "Chainguard",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159528-staff-revenue-operations-manager-emea",
+      "source": "Jobicy",
       "families": [
-        "ai"
+        "operations"
       ],
       "salary": "",
-      "posted": "1794007555"
+      "posted": "2026-11-07T11:06:47+00:00"
+    },
+    {
+      "title": "Communications and Operations Director",
+      "company": "InterVarsity Press, LLC",
+      "location": "",
+      "url": "https://himalayas.app/companies/intervarsity-press-llc/jobs/communications-and-operations-director?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1794073363"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -268,13 +195,13 @@
       "posted": "2026-08-04T23:02:29+00:00"
     },
     {
-      "title": "Business Analyst:in",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analystin-zurich-278509",
+      "title": "Customer Success Manager (m/w/d) gesucht - 100% Remote",
+      "company": "ProviPanda GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-gesucht-100-remote-hamburg-218933",
       "source": "Arbeitnow",
       "families": [
-        "business"
+        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -289,7 +216,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 8
+      "matches": 2
     },
     {
       "source": "Himalayas",
