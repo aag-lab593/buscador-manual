@@ -1,41 +1,53 @@
 {
-  "updated_at": "2026-11-07T17:44:51.103382+00:00",
+  "updated_at": "2026-11-07T23:38:18.187472+00:00",
   "jobs": [
     {
-      "title": "Mid-Market Customer Success Manager - Americas",
-      "company": "Ashby",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/159550-mid-market-customer-success-manager-americas",
+      "title": "Senior Customer Success Manager",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159644-senior-customer-success-manager-22",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-07T14:25:26+00:00"
+      "posted": "2026-11-07T16:33:20+00:00"
     },
     {
-      "title": "Staff Revenue Operations Manager - EMEA",
-      "company": "Chainguard",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159528-staff-revenue-operations-manager-emea",
+      "title": "Support Operations Engineer - NAMER",
+      "company": "Ashby",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/159639-support-operations-engineer-namer",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-07T11:06:47+00:00"
+      "posted": "2026-11-07T16:33:12+00:00"
     },
     {
-      "title": "Communications and Operations Director",
-      "company": "InterVarsity Press, LLC",
-      "location": "",
-      "url": "https://himalayas.app/companies/intervarsity-press-llc/jobs/communications-and-operations-director?utm_source=api",
-      "source": "Himalayas",
+      "title": "Travel Operations Specialist",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/159600-travel-operations-specialist",
+      "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "1794073363"
+      "posted": "2026-11-07T15:23:02+00:00"
+    },
+    {
+      "title": "Senior IT Business Analyst",
+      "company": "Alliant Insurance Services, Inc.",
+      "location": "",
+      "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/senior-it-business-analyst?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "business"
+      ],
+      "salary": "",
+      "posted": "1794093869"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -122,18 +134,6 @@
       "posted": "2026-10-16T00:00:43+00:00"
     },
     {
-      "title": "Customer Support Specialist",
-      "company": "Ultimate Marketing",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-10-14T01:31:49+00:00"
-    },
-    {
       "title": "Technical Customer Support",
       "company": "QuickMail",
       "location": "",
@@ -195,13 +195,13 @@
       "posted": "2026-08-04T23:02:29+00:00"
     },
     {
-      "title": "Customer Success Manager (m/w/d) gesucht - 100% Remote",
-      "company": "ProviPanda GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-gesucht-100-remote-hamburg-218933",
+      "title": "(Senior) SAP SuccessFactors Consultant – Onboarding (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/remote-senior-sap-successfactors-consultant-onboarding-heidelberg-493027",
       "source": "Arbeitnow",
       "families": [
-        "customer"
+        "implementation"
       ],
       "salary": "",
       "posted": ""
@@ -216,7 +216,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 2
+      "matches": 3
     },
     {
       "source": "Himalayas",
@@ -226,7 +226,7 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 13
+      "matches": 12
     },
     {
       "source": "Arbeitnow",
