@@ -1,66 +1,114 @@
 {
-  "updated_at": "2026-11-06T19:24:28.467589+00:00",
+  "updated_at": "2026-11-07T00:06:49.951264+00:00",
   "jobs": [
     {
-      "title": "Head of AI Native Operations",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+      "title": "Security Operations Engineer",
+      "company": "Samsara",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159442-security-operations-engineer",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-06T16:02:00+00:00"
+      "posted": "2026-11-06T17:58:07+00:00"
     },
     {
-      "title": "Senior People Operations Coordinator, Claude Corps",
-      "company": "CodePath",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159333-senior-people-operations-coordinator-claude-corps",
-      "source": "Jobicy",
-      "families": [
-        "operations",
-        "people"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T15:07:34+00:00"
-    },
-    {
-      "title": "Head of Tutor Strategy & Operations",
-      "company": "ClassDojo",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159331-head-of-tutor-strategy-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T15:07:30+00:00"
-    },
-    {
-      "title": "Bilingual Customer Experience T3 Specialist (Spanish)",
-      "company": "Instacart",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159327-bilingual-customer-experience-t3-specialist-spanish",
+      "title": "Customer Success Account Manager, Mid-Market - German",
+      "company": "Samsara",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159427-customer-success-account-manager-mid-market-german",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-06T15:07:23+00:00"
+      "posted": "2026-11-06T17:56:55+00:00"
     },
     {
-      "title": "Sr. Manager, Recruiting Operations",
+      "title": "Customer Success Account Manager, Mid-Market",
       "company": "Samsara",
-      "location": "",
-      "url": "https://himalayas.app/companies/samsara/jobs/sr-manager-recruiting-operations?utm_source=api",
-      "source": "Himalayas",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159424-customer-success-account-manager-mid-market",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T17:56:50+00:00"
+    },
+    {
+      "title": "Customer Success Account Manager, Digital - German",
+      "company": "Samsara",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159421-customer-success-account-manager-digital-german",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T17:56:18+00:00"
+    },
+    {
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/159418-customer-success-account-manager-digital-french",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T17:56:13+00:00"
+    },
+    {
+      "title": "Service Desk L3 - IT Operations Technical Lead",
+      "company": "Nebius",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/159417-service-desk-l3-it-operations-technical-lead",
+      "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "1793991094"
+      "posted": "2026-11-06T17:56:11+00:00"
+    },
+    {
+      "title": "Director, Marketing Operations",
+      "company": "Maven Clinic",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159413-director-marketing-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T17:07:03+00:00"
+    },
+    {
+      "title": "Strategy & Operations, Customer Success",
+      "company": "Ashby",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/159400-strategy-operations-customer-success-2",
+      "source": "Jobicy",
+      "families": [
+        "operations",
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T17:05:56+00:00"
+    },
+    {
+      "title": "Senior QA Automation Engineer (Playwright)",
+      "company": "Valtech",
+      "location": "",
+      "url": "https://himalayas.app/companies/valtech-us/jobs/senior-qa-automation-engineer-playwright?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "1794007555"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -241,7 +289,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 8
     },
     {
       "source": "Himalayas",
