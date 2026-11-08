@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-08T17:55:43.385778+00:00",
+  "updated_at": "2026-11-08T23:43:00.097737+00:00",
   "jobs": [
+    {
+      "title": "Executive Assistant - LATAM",
+      "company": "Elevenlabs",
+      "location": "Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/159876-executive-assistant-latam",
+      "source": "Jobicy",
+      "families": [
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T19:48:22+00:00"
+    },
+    {
+      "title": "Customer Success Manager, Digital - Florida",
+      "company": "Unite Us",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159861-customer-success-manager-digital-florida",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:20:07+00:00"
+    },
+    {
+      "title": "Customer Success Executive - Vermont",
+      "company": "Unite Us",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159857-customer-success-executive-vermont",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:19:42+00:00"
+    },
+    {
+      "title": "Staff Product Manager, Marketing Automation - CANADA",
+      "company": "Luxury Presence",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/159849-staff-product-manager-marketing-automation-canada",
+      "source": "Jobicy",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:16:14+00:00"
+    },
+    {
+      "title": "Customer Experience T3 Specialist",
+      "company": "Instacart",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159842-customer-experience-t3-specialist",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:16:04+00:00"
+    },
+    {
+      "title": "Campaign Operations Specialist",
+      "company": "LastPass",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159840-campaign-operations-specialist",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:16:00+00:00"
+    },
     {
       "title": "Head of AI, Automation & Analytics",
       "company": "UpGuard",
@@ -24,30 +96,6 @@
       ],
       "salary": "",
       "posted": "2026-11-08T10:20:26+00:00"
-    },
-    {
-      "title": "Operations Service Specialist",
-      "company": "Proof",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159803-operations-service-specialist",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T10:08:18+00:00"
-    },
-    {
-      "title": "AI Automation Expert (n8n / Make / Zapier / AI Agents)",
-      "company": "Kreative Media",
-      "location": "",
-      "url": "https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "1794112008"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -193,6 +241,30 @@
       ],
       "salary": "",
       "posted": "2026-08-04T23:02:29+00:00"
+    },
+    {
+      "title": "Senior Tech Operations Specialist (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-250932",
+      "source": "Arbeitnow",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+      "company": "Time to hire",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "source": "Arbeitnow",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": ""
     }
   ],
   "sources": [
@@ -204,12 +276,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 8
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     },
     {
       "source": "Remote OK",
@@ -219,7 +291,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 0
+      "matches": 2
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
