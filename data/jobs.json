@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-11-07T23:38:18.187472+00:00",
+  "updated_at": "2026-11-08T17:55:43.385778+00:00",
   "jobs": [
     {
-      "title": "Senior Customer Success Manager",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159644-senior-customer-success-manager-22",
+      "title": "Head of AI, Automation & Analytics",
+      "company": "UpGuard",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/159809-head-of-ai-automation-analytics",
+      "source": "Jobicy",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T10:20:28+00:00"
+    },
+    {
+      "title": "Customer Success Manager — Japan",
+      "company": "Dropbox",
+      "location": "Japan",
+      "url": "https://jobicy.com/jobs/159808-customer-success-manager-japan",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-07T16:33:20+00:00"
+      "posted": "2026-11-08T10:20:26+00:00"
     },
     {
-      "title": "Support Operations Engineer - NAMER",
-      "company": "Ashby",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/159639-support-operations-engineer-namer",
+      "title": "Operations Service Specialist",
+      "company": "Proof",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159803-operations-service-specialist",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-07T16:33:12+00:00"
+      "posted": "2026-11-08T10:08:18+00:00"
     },
     {
-      "title": "Travel Operations Specialist",
-      "company": "Canonical",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/159600-travel-operations-specialist",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-07T15:23:02+00:00"
-    },
-    {
-      "title": "Senior IT Business Analyst",
-      "company": "Alliant Insurance Services, Inc.",
+      "title": "AI Automation Expert (n8n / Make / Zapier / AI Agents)",
+      "company": "Kreative Media",
       "location": "",
-      "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/senior-it-business-analyst?utm_source=api",
+      "url": "https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents?utm_source=api",
       "source": "Himalayas",
       "families": [
-        "business"
+        "ai"
       ],
       "salary": "",
-      "posted": "1794093869"
+      "posted": "1794112008"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -193,18 +193,6 @@
       ],
       "salary": "",
       "posted": "2026-08-04T23:02:29+00:00"
-    },
-    {
-      "title": "(Senior) SAP SuccessFactors Consultant – Onboarding (m/w/d)",
-      "company": "cbs Corporate Business Solutions GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/remote-senior-sap-successfactors-consultant-onboarding-heidelberg-493027",
-      "source": "Arbeitnow",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -231,7 +219,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
