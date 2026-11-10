@@ -1,101 +1,77 @@
 {
-  "updated_at": "2026-11-08T23:43:00.097737+00:00",
+  "updated_at": "2026-11-10T19:43:40.870062+00:00",
   "jobs": [
     {
-      "title": "Executive Assistant - LATAM",
-      "company": "Elevenlabs",
-      "location": "Brazil,  Mexico",
-      "url": "https://jobicy.com/jobs/159876-executive-assistant-latam",
-      "source": "Jobicy",
-      "families": [
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T19:48:22+00:00"
-    },
-    {
-      "title": "Customer Success Manager, Digital - Florida",
-      "company": "Unite Us",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159861-customer-success-manager-digital-florida",
+      "title": "Customer Support Representative",
+      "company": "AssetWatch",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/161172-customer-support-representative-2",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-08T16:20:07+00:00"
+      "posted": "2026-11-10T15:12:12+00:00"
     },
     {
-      "title": "Customer Success Executive - Vermont",
-      "company": "Unite Us",
+      "title": "Implementation Project Manager",
+      "company": "Latent",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/159857-customer-success-executive-vermont",
+      "url": "https://jobicy.com/jobs/161170-implementation-project-manager",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-08T16:19:42+00:00"
+      "posted": "2026-11-10T15:11:48+00:00"
     },
     {
-      "title": "Staff Product Manager, Marketing Automation - CANADA",
-      "company": "Luxury Presence",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/159849-staff-product-manager-marketing-automation-canada",
+      "title": "Partner Compliance & Onboarding Coordinator",
+      "company": "Palmetto Clean Technology",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/161079-partner-compliance-onboarding-coordinator",
       "source": "Jobicy",
       "families": [
-        "ai"
+        "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-08T16:16:14+00:00"
+      "posted": "2026-11-10T11:36:25+00:00"
     },
     {
-      "title": "Customer Experience T3 Specialist",
-      "company": "Instacart",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159842-customer-experience-t3-specialist",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T16:16:04+00:00"
-    },
-    {
-      "title": "Campaign Operations Specialist",
-      "company": "LastPass",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159840-campaign-operations-specialist",
+      "title": "Principal Security Operations Center Analyst",
+      "company": "Huntress",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/161073-principal-security-operations-center-analyst",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-08T16:16:00+00:00"
+      "posted": "2026-11-10T11:36:16+00:00"
     },
     {
-      "title": "Head of AI, Automation & Analytics",
-      "company": "UpGuard",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/159809-head-of-ai-automation-analytics",
-      "source": "Jobicy",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T10:20:28+00:00"
-    },
-    {
-      "title": "Customer Success Manager — Japan",
-      "company": "Dropbox",
-      "location": "Japan",
-      "url": "https://jobicy.com/jobs/159808-customer-success-manager-japan",
+      "title": "Customer Success Specialist I (Spanish Bilingual)",
+      "company": "Palmetto Clean Technology",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/161072-customer-success-specialist-i-spanish-bilingual",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-08T10:20:26+00:00"
+      "posted": "2026-11-10T11:36:14+00:00"
+    },
+    {
+      "title": "Payroll Operations Review Consultant",
+      "company": "AlphaHire",
+      "location": "",
+      "url": "https://himalayas.app/companies/alphahire/jobs/payroll-operations-review-consultant?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1794333423"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -231,37 +207,13 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Operations Engineer II",
-      "company": "AWeber",
-      "location": "Uluberia-II, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T23:02:29+00:00"
-    },
-    {
-      "title": "Senior Tech Operations Specialist (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-250932",
+      "title": "Senior Business Analyst / Requirements Engineer (76080)",
+      "company": "IQ Plus AG",
+      "location": "Winterthur",
+      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/senior-business-analyst-requirements-engineer-76080-winterthur-352055",
       "source": "Arbeitnow",
       "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
-      "company": "Time to hire",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
+        "business"
       ],
       "salary": "",
       "posted": ""
@@ -276,22 +228,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 8
+      "matches": 5
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 12
+      "matches": 11
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 2
+      "matches": 1
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
