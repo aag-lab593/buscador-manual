@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-10T19:43:40.870062+00:00",
+  "updated_at": "2026-11-11T00:40:26.458888+00:00",
   "jobs": [
+    {
+      "title": "Supervisor, Billing Operations",
+      "company": "Twilio",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/161185-supervisor-billing-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-10T18:34:49+00:00"
+    },
     {
       "title": "Customer Support Representative",
       "company": "AssetWatch",
@@ -26,42 +38,6 @@
       "posted": "2026-11-10T15:11:48+00:00"
     },
     {
-      "title": "Partner Compliance & Onboarding Coordinator",
-      "company": "Palmetto Clean Technology",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/161079-partner-compliance-onboarding-coordinator",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-10T11:36:25+00:00"
-    },
-    {
-      "title": "Principal Security Operations Center Analyst",
-      "company": "Huntress",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/161073-principal-security-operations-center-analyst",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-10T11:36:16+00:00"
-    },
-    {
-      "title": "Customer Success Specialist I (Spanish Bilingual)",
-      "company": "Palmetto Clean Technology",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/161072-customer-success-specialist-i-spanish-bilingual",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-10T11:36:14+00:00"
-    },
-    {
       "title": "Payroll Operations Review Consultant",
       "company": "AlphaHire",
       "location": "",
@@ -84,18 +60,6 @@
       ],
       "salary": "",
       "posted": "2026-11-05T15:01:09+00:00"
-    },
-    {
-      "title": "Sales Operations Analyst",
-      "company": "Calabrio",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T16:00:05+00:00"
     },
     {
       "title": "Partner Operations Manager",
@@ -207,6 +171,30 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
+      "title": "Strategic Customer Success Manager",
+      "company": "Spring Health",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-strategic-customer-success-manager-16718",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Customer Success Manager (m/w/d) - 100% Remote",
+      "company": "ProviPanda GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-248564",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
       "title": "Senior Business Analyst / Requirements Engineer (76080)",
       "company": "IQ Plus AG",
       "location": "Winterthur",
@@ -228,7 +216,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 5
+      "matches": 3
     },
     {
       "source": "Himalayas",
@@ -238,12 +226,12 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 11
+      "matches": 10
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 1
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
