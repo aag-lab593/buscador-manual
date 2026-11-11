@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-11-11T00:40:26.458888+00:00",
+  "updated_at": "2026-11-11T19:35:52.292140+00:00",
   "jobs": [
     {
-      "title": "Supervisor, Billing Operations",
-      "company": "Twilio",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161185-supervisor-billing-operations",
+      "title": "GTM Strategy & Operations Manager- Special Projects",
+      "company": "Motive",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161336-gtm-strategy-operations-manager-special-projects",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-10T18:34:49+00:00"
+      "posted": "2026-11-11T16:16:11+00:00"
     },
     {
-      "title": "Customer Support Representative",
-      "company": "AssetWatch",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/161172-customer-support-representative-2",
+      "title": "Manager, Security Operations Center",
+      "company": "Huntress",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/161297-manager-security-operations-center-2",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T14:49:29+00:00"
+    },
+    {
+      "title": "Manager, Sales Operations",
+      "company": "Panopto",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161281-manager-sales-operations",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T13:36:20+00:00"
+    },
+    {
+      "title": "Customer Success Lead",
+      "company": "dscout",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161258-customer-success-lead-3",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-10T15:12:12+00:00"
-    },
-    {
-      "title": "Implementation Project Manager",
-      "company": "Latent",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161170-implementation-project-manager",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-10T15:11:48+00:00"
-    },
-    {
-      "title": "Payroll Operations Review Consultant",
-      "company": "AlphaHire",
-      "location": "",
-      "url": "https://himalayas.app/companies/alphahire/jobs/payroll-operations-review-consultant?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "1794333423"
+      "posted": "2026-11-11T10:52:45+00:00"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -169,42 +169,6 @@
       ],
       "salary": "",
       "posted": "2026-08-18T16:00:57+00:00"
-    },
-    {
-      "title": "Strategic Customer Success Manager",
-      "company": "Spring Health",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-strategic-customer-success-manager-16718",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Success Manager (m/w/d) - 100% Remote",
-      "company": "ProviPanda GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-248564",
-      "source": "Arbeitnow",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Senior Business Analyst / Requirements Engineer (76080)",
-      "company": "IQ Plus AG",
-      "location": "Winterthur",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/senior-business-analyst-requirements-engineer-76080-winterthur-352055",
-      "source": "Arbeitnow",
-      "families": [
-        "business"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -216,12 +180,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 4
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     },
     {
       "source": "Remote OK",
@@ -231,7 +195,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 0
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
