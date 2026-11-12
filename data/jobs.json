@@ -1,53 +1,77 @@
 {
-  "updated_at": "2026-11-11T19:35:52.292140+00:00",
+  "updated_at": "2026-11-12T01:54:07.891437+00:00",
   "jobs": [
     {
-      "title": "GTM Strategy & Operations Manager- Special Projects",
-      "company": "Motive",
+      "title": "Revenue Operations Analyst",
+      "company": "Deepgram",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/161336-gtm-strategy-operations-manager-special-projects",
+      "url": "https://jobicy.com/jobs/161403-revenue-operations-analyst",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-11T16:16:11+00:00"
+      "posted": "2026-11-11T18:43:37+00:00"
     },
     {
-      "title": "Manager, Security Operations Center",
-      "company": "Huntress",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/161297-manager-security-operations-center-2",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T14:49:29+00:00"
-    },
-    {
-      "title": "Manager, Sales Operations",
-      "company": "Panopto",
+      "title": "Manager, Customer Success Management - Public Sector",
+      "company": "Chainguard",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/161281-manager-sales-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T13:36:20+00:00"
-    },
-    {
-      "title": "Customer Success Lead",
-      "company": "dscout",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161258-customer-success-lead-3",
+      "url": "https://jobicy.com/jobs/161402-manager-customer-success-management-public-sector",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-11T10:52:45+00:00"
+      "posted": "2026-11-11T18:43:36+00:00"
+    },
+    {
+      "title": "Customer Success Manager, Enterprise - Central",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161381-customer-success-manager-enterprise-central-2",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T18:42:02+00:00"
+    },
+    {
+      "title": "Customer Success Manager, Commercial",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161378-customer-success-manager-commercial",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T18:41:58+00:00"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "BlueCross BlueShield of Tennessee",
+      "location": "",
+      "url": "https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/project-coordinator?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "1794448385"
+    },
+    {
+      "title": "Strategy & Operations Coach APAC",
+      "company": "Mento",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T00:00:15+00:00"
     },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -185,12 +209,12 @@
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 10
+      "matches": 11
     },
     {
       "source": "Arbeitnow",
