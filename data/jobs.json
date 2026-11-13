@@ -1,114 +1,53 @@
 {
-  "updated_at": "2026-11-13T01:05:10.600364+00:00",
+  "updated_at": "2026-11-13T19:42:04.821975+00:00",
   "jobs": [
     {
-      "title": "Director, Client Success",
-      "company": "Qventus",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161701-director-client-success",
+      "title": "Customer Support Coach – Integrations",
+      "company": "Cloudbeds",
+      "location": "Thailand",
+      "url": "https://jobicy.com/jobs/161946-customer-support-coach-integrations",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-12T17:05:16+00:00"
+      "posted": "2026-11-13T15:03:22+00:00"
     },
     {
-      "title": "VP, Strategic Finance & Business Operations",
-      "company": "Updater",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161695-vp-strategic-finance-business-operations",
+      "title": "Senior IBM Business Automation Workflow (BAW) Developer",
+      "company": "Oowlish Technology",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/161941-senior-ibm-business-automation-workflow-baw-developer",
       "source": "Jobicy",
       "families": [
-        "operations",
-        "business"
+        "ai"
       ],
       "salary": "",
-      "posted": "2026-11-12T17:05:06+00:00"
+      "posted": "2026-11-13T14:55:37+00:00"
     },
     {
-      "title": "Customer Success Manager - East",
-      "company": "GitLab",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/161677-customer-success-manager-east",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:52:12+00:00"
-    },
-    {
-      "title": "Customer Success LATAM",
-      "company": "GitLab",
-      "location": "Brazil,  Mexico,  USA",
-      "url": "https://jobicy.com/jobs/161674-customer-success-latam",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:51:36+00:00"
-    },
-    {
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161671-customer-success-engineer",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:51:32+00:00"
-    },
-    {
-      "title": "Customer Experience Enablement Lead",
-      "company": "GitLab",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161668-customer-experience-enablement-lead",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:51:26+00:00"
-    },
-    {
-      "title": "Senior Customer Support Executive, 6 month FTC (Remote in UK)",
-      "company": "Nivoda",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/161649-senior-customer-support-executive-6-month-ftc-remote-in-uk",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:49:50+00:00"
-    },
-    {
-      "title": "AT - Director - CDL Operations",
-      "company": "Ancora Education",
+      "title": "AI Solutions Engineer - Agents & Automation",
+      "company": "HeadQuarters",
       "location": "",
-      "url": "https://himalayas.app/companies/ancora-education/jobs/at-director-cdl-operations?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "1794531741"
-    },
-    {
-      "title": "QA automation - Développeur.euse de tests automatisés",
-      "company": "itera",
-      "location": "",
-      "url": "https://himalayas.app/companies/itera/jobs/qa-automation-developpeur-euse-de-tests-automatises?utm_source=api",
+      "url": "https://himalayas.app/companies/headquarters/jobs/ai-solutions-engineer-agents-automation-440837850?utm_source=api",
       "source": "Himalayas",
       "families": [
         "ai"
       ],
       "salary": "",
-      "posted": "1794530992"
+      "posted": "1794598051"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "company": "Bonusly",
+      "location": "",
+      "url": "https://himalayas.app/companies/bonusly-com/jobs/enterprise-customer-success-manager?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "1794598014"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -232,22 +171,10 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Senior QA Manager Automation & AI - Fully Remote",
-      "company": "SOFTGAMES",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
-      "source": "Arbeitnow",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Success Manager (KI-Fokus) - m/w/d",
-      "company": "ML Media GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ml-media-gmbh/customer-success-manager-ki-fokus-berlin-432292",
+      "title": "Customer Success Specialist",
+      "company": "Askara",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/askara/customer-success-specialist-paris-494951",
       "source": "Arbeitnow",
       "families": [
         "customer"
@@ -256,13 +183,38 @@
       "posted": ""
     },
     {
-      "title": "E-Commerce Operations Manager/-in (Amazon DE & USA)",
-      "company": "GalleryLab GmbH",
+      "title": "Senior People Operations Partner",
+      "company": "Precisionmedicinegroup",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/precisionmedicinegroup/remote-senior-people-operations-partner-259706",
+      "source": "Arbeitnow",
+      "families": [
+        "operations",
+        "people"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Customer Operations Specialist",
+      "company": "Coopers Group AG",
       "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
       "source": "Arbeitnow",
       "families": [
         "operations"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Senior Business Analyst - Versicherung",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-versicherung-zurich-461493",
+      "source": "Arbeitnow",
+      "families": [
+        "business"
       ],
       "salary": "",
       "posted": ""
@@ -277,7 +229,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 7
+      "matches": 2
     },
     {
       "source": "Himalayas",
@@ -292,7 +244,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 4
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
