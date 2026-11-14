@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-13T19:42:04.821975+00:00",
+  "updated_at": "2026-11-14T00:54:04.639924+00:00",
   "jobs": [
+    {
+      "title": "Director, Implementation Success",
+      "company": "Qventus",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162070-director-implementation-success",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-13T18:54:22+00:00"
+    },
+    {
+      "title": "Director, Customer Success – West",
+      "company": "Semperis",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162068-director-customer-success-west",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-13T18:54:19+00:00"
+    },
     {
       "title": "Customer Support Coach – Integrations",
       "company": "Cloudbeds",
@@ -24,30 +48,6 @@
       ],
       "salary": "",
       "posted": "2026-11-13T14:55:37+00:00"
-    },
-    {
-      "title": "AI Solutions Engineer - Agents & Automation",
-      "company": "HeadQuarters",
-      "location": "",
-      "url": "https://himalayas.app/companies/headquarters/jobs/ai-solutions-engineer-agents-automation-440837850?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "1794598051"
-    },
-    {
-      "title": "Enterprise Customer Success Manager",
-      "company": "Bonusly",
-      "location": "",
-      "url": "https://himalayas.app/companies/bonusly-com/jobs/enterprise-customer-success-manager?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "1794598014"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -229,12 +229,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 2
+      "matches": 4
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 2
+      "matches": 0
     },
     {
       "source": "Remote OK",
