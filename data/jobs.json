@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-14T18:01:31.019246+00:00",
+  "updated_at": "2026-11-14T23:55:19.233216+00:00",
   "jobs": [
+    {
+      "title": "Digital Onboarding Specialist I - Lisbon / Madrid",
+      "company": "Pleo",
+      "location": "Portugal,  Spain",
+      "url": "https://jobicy.com/jobs/162235-digital-onboarding-specialist-i-lisbon-madrid",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-14T16:03:29+00:00"
+    },
     {
       "title": "Customer Success Enablement Specialist",
       "company": "Vonage",
@@ -50,64 +62,52 @@
       "posted": "2026-11-14T12:55:18+00:00"
     },
     {
-      "title": "Contract Operations Associate",
-      "company": "Elation Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162187-contract-operations-associate",
-      "source": "Jobicy",
+      "title": "Finance Close Automation Solution Designer, Italy",
+      "company": "Yadimen Consulting Limited",
+      "location": "",
+      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/finance-close-automation-solution-designer-italy?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "1794698760"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Pavago",
+      "location": "",
+      "url": "https://himalayas.app/companies/pavago/jobs/operations-associate?utm_source=api",
+      "source": "Himalayas",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-14T12:48:08+00:00"
+      "posted": "1794698566"
     },
     {
-      "title": "Enterprise Implementation Manager",
-      "company": "Unite Us",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162179-enterprise-implementation-manager",
-      "source": "Jobicy",
+      "title": "Operations Manager - Chicago, IL",
+      "company": "OpenWorks",
+      "location": "",
+      "url": "https://himalayas.app/companies/openworks/jobs/operations-manager-chicago-il?utm_source=api",
+      "source": "Himalayas",
       "families": [
-        "implementation"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-14T12:48:01+00:00"
+      "posted": "1794698342"
     },
     {
-      "title": "District Onboarding Manager",
-      "company": "ClassDojo",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162178-district-onboarding-manager",
-      "source": "Jobicy",
+      "title": "Manager I Everyday AI & Automation- (Global Remote)",
+      "company": "Catholic Relief Services",
+      "location": "",
+      "url": "https://himalayas.app/companies/catholic-relief-services/jobs/manager-i-everyday-ai-automation-global-remote?utm_source=api",
+      "source": "Himalayas",
       "families": [
-        "implementation"
+        "ai"
       ],
       "salary": "",
-      "posted": "2026-11-14T12:26:00+00:00"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Makai Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162170-business-analyst-3",
-      "source": "Jobicy",
-      "families": [
-        "business"
-      ],
-      "salary": "",
-      "posted": "2026-11-14T12:25:28+00:00"
-    },
-    {
-      "title": "Principal Enterprise Onboarding Manager",
-      "company": "ClassDojo",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162169-principal-enterprise-onboarding-manager",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-14T12:25:27+00:00"
+      "posted": "1794697623"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -231,6 +231,18 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "company": "Customs Support Group",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "source": "Arbeitnow",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
       "title": "Customer Operations Specialist",
       "company": "Coopers Group AG",
       "location": "Zürich",
@@ -264,12 +276,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 9
+      "matches": 5
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 4
     },
     {
       "source": "Remote OK",
@@ -279,7 +291,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 2
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
