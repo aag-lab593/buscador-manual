@@ -1,53 +1,78 @@
 {
-  "updated_at": "2026-11-15T23:58:00.060700+00:00",
+  "updated_at": "2026-11-16T22:01:40.580719+00:00",
   "jobs": [
     {
-      "title": "Director, GTM Operations",
-      "company": "Zapier",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/162472-director-gtm-operations",
+      "title": "Senior Security Operations Engineer",
+      "company": "Samsara",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/162704-senior-security-operations-engineer-6",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-15T13:28:26+00:00"
+      "posted": "2026-11-16T16:54:58+00:00"
     },
     {
-      "title": "Senior Associate, Client Success",
-      "company": "Maven Clinic",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/162470-senior-associate-client-success",
+      "title": "Director, EMEA Sales Operations",
+      "company": "Temporal Technologies",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/162682-director-emea-sales-operations",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "operations"
       ],
       "salary": "",
-      "posted": "2026-11-15T13:28:25+00:00"
+      "posted": "2026-11-16T16:52:32+00:00"
     },
     {
-      "title": "Web Automation Test Engineer",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/162439-web-automation-test-engineer-2",
+      "title": "Operations Specialist - Remote (MX, BR or AR)",
+      "company": "Appen",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/162668-operations-specialist-remote-mx-br-or-ar",
       "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-16T15:45:03+00:00"
+    },
+    {
+      "title": "Pega Business Analyst",
+      "company": "Initium Software",
+      "location": "",
+      "url": "https://himalayas.app/companies/initium-software/jobs/pega-business-analyst?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "business"
+      ],
+      "salary": "",
+      "posted": "1794864081"
+    },
+    {
+      "title": "Business Operations Manager",
+      "company": "Contour Education",
+      "location": "",
+      "url": "https://himalayas.app/companies/contour-education/jobs/business-operations-manager?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations",
+        "business"
+      ],
+      "salary": "",
+      "posted": "1794863736"
+    },
+    {
+      "title": "Redwood Automation Engineer (RunMyJobs / SAP BPA), SAP Finance, Iceland",
+      "company": "Yadimen Consulting Limited",
+      "location": "",
+      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/redwood-automation-engineer-runmyjobs-sap-bpa-sap-finance-iceland?utm_source=api",
+      "source": "Himalayas",
       "families": [
         "ai"
       ],
       "salary": "",
-      "posted": "2026-11-15T13:19:37+00:00"
-    },
-    {
-      "title": "Human Resources Generalist",
-      "company": "Alimentiv",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/162435-human-resources-generalist",
-      "source": "Jobicy",
-      "families": [
-        "people"
-      ],
-      "salary": "",
-      "posted": "2026-11-15T13:19:19+00:00"
+      "posted": "1794862657"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -171,13 +196,13 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "title": "Customer Success Specialist",
+      "company": "Askara",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/askara/customer-success-specialist-paris-56102",
       "source": "Arbeitnow",
       "families": [
-        "ai"
+        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -192,12 +217,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 3
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 3
     },
     {
       "source": "Remote OK",
