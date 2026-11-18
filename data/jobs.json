@@ -1,41 +1,42 @@
 {
-  "updated_at": "2026-11-17T20:55:10.337604+00:00",
+  "updated_at": "2026-11-18T20:30:40.945787+00:00",
   "jobs": [
     {
-      "title": "Support Operations Lead",
-      "company": "Zip",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/163006-support-operations-lead",
+      "title": "Senior People Operations Associate",
+      "company": "Consensys",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/163122-senior-people-operations-associate",
+      "source": "Jobicy",
+      "families": [
+        "operations",
+        "people"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T12:43:53+00:00"
+    },
+    {
+      "title": "Financial Operations Analyst, 12 Month Fixed Term Contract",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/163119-financial-operations-analyst-12-month-fixed-term-contract",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-17T16:39:36+00:00"
+      "posted": "2026-11-18T12:43:48+00:00"
     },
     {
-      "title": "Corporate & Integration Operations Associate",
-      "company": "3Y Health",
-      "location": "Greece",
-      "url": "https://jobicy.com/jobs/162988-corporate-integration-operations-associate",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-17T13:45:26+00:00"
-    },
-    {
-      "title": "Mid-Market Customer Success Manager - EMEA (German speaking)",
-      "company": "Ashby",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/162981-mid-market-customer-success-manager-emea-german-speaking",
-      "source": "Jobicy",
+      "title": "Customer Support Specialist – Nayax Energy",
+      "company": "Nayax",
+      "location": "",
+      "url": "https://himalayas.app/companies/nayax/jobs/customer-support-specialist-nayax-energy?utm_source=api",
+      "source": "Himalayas",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-17T13:43:03+00:00"
+      "posted": "1795033803"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -159,51 +160,51 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Praktikum HR & People Operations (m/w/d) - 100% Homeoffice / Remote - Startoption: Januar oder März 2027",
-      "company": "TEACHY Education",
-      "location": "Freiburg im Breisgau",
-      "url": "https://www.arbeitnow.com/jobs/companies/teachy-education/praktikum-hr-people-operations-100-homeoffice-remote-startoption-januar-oder-marz-2027-freiburg-im-breisgau-278047",
-      "source": "Arbeitnow",
-      "families": [
-        "operations",
-        "people"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Director, Customer Success Strategy & Operations",
-      "company": "Spring Health",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-customer-success-strategy-operations-390998",
-      "source": "Arbeitnow",
-      "families": [
-        "operations",
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Manager, Billing Operations",
-      "company": "Spring Health",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-manager-billing-operations-468482",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Instagrid",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/instagrid/remote-customer-success-manager-bretagne-146851",
+      "title": "Customer Success Manager (m/w/d) Power BI mit Entscheidungsbefugnis",
+      "company": "Weiler Consult GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-463002",
       "source": "Arbeitnow",
       "families": [
         "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse",
+      "company": "ProviPanda GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "source": "Arbeitnow",
+      "families": [
+        "operations",
+        "ai"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "AI Operations Monitor – Digital Operations & Incident Response",
+      "company": "Lightly AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+      "source": "Arbeitnow",
+      "families": [
+        "operations",
+        "ai"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Senior Business Analyst:in - Derivate",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analystin-derivate-zurich-386257",
+      "source": "Arbeitnow",
+      "families": [
+        "business"
       ],
       "salary": "",
       "posted": ""
@@ -218,12 +219,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 2
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
