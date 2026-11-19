@@ -1,42 +1,115 @@
 {
-  "updated_at": "2026-11-18T20:30:40.945787+00:00",
+  "updated_at": "2026-11-19T20:37:25.688817+00:00",
   "jobs": [
     {
-      "title": "Senior People Operations Associate",
-      "company": "Consensys",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/163122-senior-people-operations-associate",
+      "title": "Senior Business Operations Analyst | Revenue Assurance",
+      "company": "Wellhub",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
       "source": "Jobicy",
       "families": [
         "operations",
-        "people"
+        "business"
       ],
       "salary": "",
-      "posted": "2026-11-18T12:43:53+00:00"
+      "posted": "2026-11-19T15:41:02+00:00"
     },
     {
-      "title": "Financial Operations Analyst, 12 Month Fixed Term Contract",
-      "company": "Monzo",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/163119-financial-operations-analyst-12-month-fixed-term-contract",
+      "title": "Customer Success Manager",
+      "company": "Clipboard",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/163350-customer-success-manager-63",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T15:36:46+00:00"
+    },
+    {
+      "title": "AMER Data Analyst - Sales Strategy and Operations",
+      "company": "Stripe",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163348-amer-data-analyst-sales-strategy-and-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-18T12:43:48+00:00"
+      "posted": "2026-11-19T15:33:52+00:00"
     },
     {
-      "title": "Customer Support Specialist – Nayax Energy",
-      "company": "Nayax",
+      "title": "Onboarding Expert",
+      "company": "Clipboard",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/163300-onboarding-expert",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T11:36:48+00:00"
+    },
+    {
+      "title": "Customer Success Engineer, Singapore",
+      "company": "GitLab",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/163286-customer-success-engineer-singapore-2",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T11:34:16+00:00"
+    },
+    {
+      "title": "Customer Success Architect, Australia",
+      "company": "GitLab",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/163284-customer-success-architect-australia",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T11:34:14+00:00"
+    },
+    {
+      "title": "Human Resources Business Partner",
+      "company": "WIN Home Inspection",
       "location": "",
-      "url": "https://himalayas.app/companies/nayax/jobs/customer-support-specialist-nayax-energy?utm_source=api",
+      "url": "https://himalayas.app/companies/win-home-inspection/jobs/human-resources-business-partner?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "people"
+      ],
+      "salary": "",
+      "posted": "1795120529"
+    },
+    {
+      "title": "Executive Assistant & Project Coordinator - EST Hours",
+      "company": "ISTA Personnel Solutions",
+      "location": "",
+      "url": "https://himalayas.app/companies/ista-personnel-solutions/jobs/executive-assistant-project-coordinator-est-hours?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "executive",
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "1795120516"
+    },
+    {
+      "title": "Manager of Customer Success",
+      "company": "Accuris",
+      "location": "",
+      "url": "https://himalayas.app/companies/accuris/jobs/manager-of-customer-success?utm_source=api",
       "source": "Himalayas",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "1795033803"
+      "posted": "1795120509"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -160,10 +233,22 @@
       "posted": "2026-08-18T16:00:57+00:00"
     },
     {
-      "title": "Customer Success Manager (m/w/d) Power BI mit Entscheidungsbefugnis",
-      "company": "Weiler Consult GmbH",
+      "title": "Werkstudent:in Operations & Kundenbetreuung (m/w/d)",
+      "company": "docunest GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-463002",
+      "url": "https://www.arbeitnow.com/jobs/companies/docunest-gmbh/werkstudentin-operations-kundenbetreuung-berlin-473053",
+      "source": "Arbeitnow",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Customer Success Manager & Produktdemos (m/w/d)",
+      "company": "docunest GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/docunest-gmbh/customer-success-manager-produktdemos-berlin-226038",
       "source": "Arbeitnow",
       "families": [
         "customer"
@@ -172,14 +257,13 @@
       "posted": ""
     },
     {
-      "title": "Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse",
-      "company": "ProviPanda GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "title": "Customer Success Manager (H/F)",
+      "company": "Instagrid",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/instagrid/remote-customer-success-manager-h-f-bretagne-23143",
       "source": "Arbeitnow",
       "families": [
-        "operations",
-        "ai"
+        "customer"
       ],
       "salary": "",
       "posted": ""
@@ -196,18 +280,6 @@
       ],
       "salary": "",
       "posted": ""
-    },
-    {
-      "title": "Senior Business Analyst:in - Derivate",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analystin-derivate-zurich-386257",
-      "source": "Arbeitnow",
-      "families": [
-        "business"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -219,12 +291,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 2
+      "matches": 6
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 3
     },
     {
       "source": "Remote OK",
