@@ -1,115 +1,137 @@
 {
-  "updated_at": "2026-11-19T20:37:25.688817+00:00",
+  "updated_at": "2026-11-20T20:19:28.455633+00:00",
   "jobs": [
     {
-      "title": "Senior Business Operations Analyst | Revenue Assurance",
-      "company": "Wellhub",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
-      "source": "Jobicy",
-      "families": [
-        "operations",
-        "business"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T15:41:02+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Clipboard",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/163350-customer-success-manager-63",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T15:36:46+00:00"
-    },
-    {
-      "title": "AMER Data Analyst - Sales Strategy and Operations",
-      "company": "Stripe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/163348-amer-data-analyst-sales-strategy-and-operations",
+      "title": "3PL Operations Manager",
+      "company": "Nebius",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-19T15:33:52+00:00"
+      "posted": "2026-11-20T16:44:26+00:00"
     },
     {
-      "title": "Onboarding Expert",
-      "company": "Clipboard",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/163300-onboarding-expert",
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
       "source": "Jobicy",
       "families": [
-        "implementation"
+        "ai"
       ],
       "salary": "",
-      "posted": "2026-11-19T11:36:48+00:00"
+      "posted": "2026-11-20T14:20:04+00:00"
+    },
+    {
+      "title": "Lead Machine Learning Scientist, Customer Operations",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/163520-lead-machine-learning-scientist-customer-operations-2",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T09:34:09+00:00"
+    },
+    {
+      "title": "Principal Customer Success Manager",
+      "company": "Fin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163511-principal-customer-success-manager",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T09:32:11+00:00"
+    },
+    {
+      "title": "Engineering Lead, Clinical Operations",
+      "company": "Clover Health",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T19:15:15+00:00"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "company": "BeyondTrust",
+      "location": "North America",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-beyondtrust-1137823",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T13:00:02+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ping-identity-1137822",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T12:45:01+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Airtable",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T11:45:01+00:00"
+    },
+    {
+      "title": "Customer Success Engineer, India",
+      "company": "GitLab",
+      "location": "Asia",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-india-gitlab-1137815",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T11:00:01+00:00"
     },
     {
       "title": "Customer Success Engineer, Singapore",
       "company": "GitLab",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/163286-customer-success-engineer-singapore-2",
-      "source": "Jobicy",
+      "location": "Asia",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-singapore-gitlab-1137814",
+      "source": "Remote OK",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-19T11:34:16+00:00"
+      "posted": "2026-11-19T10:45:01+00:00"
     },
     {
-      "title": "Customer Success Architect, Australia",
+      "title": "Customer Success Architect - West",
       "company": "GitLab",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/163284-customer-success-architect-australia",
-      "source": "Jobicy",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-west-gitlab-1137813",
+      "source": "Remote OK",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-19T11:34:14+00:00"
-    },
-    {
-      "title": "Human Resources Business Partner",
-      "company": "WIN Home Inspection",
-      "location": "",
-      "url": "https://himalayas.app/companies/win-home-inspection/jobs/human-resources-business-partner?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "people"
-      ],
-      "salary": "",
-      "posted": "1795120529"
-    },
-    {
-      "title": "Executive Assistant & Project Coordinator - EST Hours",
-      "company": "ISTA Personnel Solutions",
-      "location": "",
-      "url": "https://himalayas.app/companies/ista-personnel-solutions/jobs/executive-assistant-project-coordinator-est-hours?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "executive",
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "1795120516"
-    },
-    {
-      "title": "Manager of Customer Success",
-      "company": "Accuris",
-      "location": "",
-      "url": "https://himalayas.app/companies/accuris/jobs/manager-of-customer-success?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "1795120509"
+      "posted": "2026-11-19T10:30:01+00:00"
     },
     {
       "title": "Strategy & Operations Coach APAC",
@@ -160,83 +182,22 @@
       "posted": "2026-10-29T16:00:03+00:00"
     },
     {
-      "title": "Accounting Operations",
-      "company": "Plaid",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-22T00:00:15+00:00"
-    },
-    {
-      "title": "Director of Product Management and IT Operations",
-      "company": "Self Bill Pro",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T16:00:39+00:00"
-    },
-    {
-      "title": "Customer Success Associate",
-      "company": "Voltus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T00:00:43+00:00"
-    },
-    {
-      "title": "People Operations Coordinator",
-      "company": "Ashby",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
-      "source": "Remote OK",
-      "families": [
-        "operations",
-        "people"
-      ],
-      "salary": "",
-      "posted": "2026-09-21T16:00:11+00:00"
-    },
-    {
-      "title": "Consultant Implementation Engineer",
-      "company": "Harbor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
-      "source": "Remote OK",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T00:00:15+00:00"
-    },
-    {
-      "title": "Marketing Operations Specialist",
-      "company": "Engine",
-      "location": "Remote - US",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T16:00:57+00:00"
-    },
-    {
-      "title": "Werkstudent:in Operations & Kundenbetreuung (m/w/d)",
-      "company": "docunest GmbH",
+      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
+      "company": "Vexcash AG",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/docunest-gmbh/werkstudentin-operations-kundenbetreuung-berlin-473053",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
+      "source": "Arbeitnow",
+      "families": [
+        "business"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
+      "title": "Sachbearbeiter:in Operations / Backoffice Support",
+      "company": "Coopers Group AG",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
       "source": "Arbeitnow",
       "families": [
         "operations"
@@ -245,37 +206,24 @@
       "posted": ""
     },
     {
-      "title": "Customer Success Manager & Produktdemos (m/w/d)",
-      "company": "docunest GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/docunest-gmbh/customer-success-manager-produktdemos-berlin-226038",
+      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
       "source": "Arbeitnow",
       "families": [
-        "customer"
+        "ai"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "Customer Success Manager (H/F)",
-      "company": "Instagrid",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/instagrid/remote-customer-success-manager-h-f-bretagne-23143",
+      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
       "source": "Arbeitnow",
       "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "AI Operations Monitor – Digital Operations & Incident Response",
-      "company": "Lightly AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-      "source": "Arbeitnow",
-      "families": [
-        "operations",
         "ai"
       ],
       "salary": "",
@@ -291,17 +239,17 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 6
+      "matches": 4
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 3
+      "matches": 0
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 10
+      "matches": 11
     },
     {
       "source": "Arbeitnow",
