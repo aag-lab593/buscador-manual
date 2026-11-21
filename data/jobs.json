@@ -1,53 +1,197 @@
 {
-  "updated_at": "2026-11-20T20:19:28.455633+00:00",
+  "updated_at": "2026-11-21T19:15:23.435576+00:00",
   "jobs": [
     {
-      "title": "3PL Operations Manager",
-      "company": "Nebius",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2",
+      "title": "Onboarding Manager, France",
+      "company": "Apaleo",
+      "location": "France,  Germany",
+      "url": "https://jobicy.com/jobs/163714-onboarding-manager-france",
+      "source": "Jobicy",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T15:08:36+00:00"
+    },
+    {
+      "title": "Risk Operations Specialist, AMER",
+      "company": "Binance",
+      "location": "Argentina,  Costa Rica,  Mexico",
+      "url": "https://jobicy.com/jobs/163691-risk-operations-specialist-amer",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-20T16:44:26+00:00"
+      "posted": "2026-11-21T14:26:52+00:00"
     },
     {
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
-      "source": "Jobicy",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T14:20:04+00:00"
-    },
-    {
-      "title": "Lead Machine Learning Scientist, Customer Operations",
-      "company": "Monzo",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/163520-lead-machine-learning-scientist-customer-operations-2",
+      "title": "Staff Tech Enablement Engineer, B2B Operations",
+      "company": "CookUnity",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/163688-staff-tech-enablement-engineer-b2b-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-20T09:34:09+00:00"
+      "posted": "2026-11-21T14:26:17+00:00"
     },
     {
-      "title": "Principal Customer Success Manager",
-      "company": "Fin",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/163511-principal-customer-success-manager",
+      "title": "Customer Success Manager",
+      "company": "Semperis",
+      "location": "France",
+      "url": "https://jobicy.com/jobs/163672-customer-success-manager-64",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-20T09:32:11+00:00"
+      "posted": "2026-11-21T13:10:24+00:00"
+    },
+    {
+      "title": "Commercial Credit Operations Manager",
+      "company": "Stripe",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/163668-commercial-credit-operations-manager",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T13:06:26+00:00"
+    },
+    {
+      "title": "Campaign Strategy & Operations Manager",
+      "company": "Stripe",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163665-campaign-strategy-operations-manager-2",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T13:06:21+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Salsify",
+      "location": "Europe",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-salsify-1137909",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T10:00:06+00:00"
+    },
+    {
+      "title": "Senior Associate, Finance and Accounting Operations",
+      "company": "Ensono",
+      "location": "Latin America",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-associate-finance-and-accounting-operations-ensono-1137905",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T09:20:16+00:00"
+    },
+    {
+      "title": "Data Strategy Operations Manager",
+      "company": "Abnormal",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T08:40:14+00:00"
+    },
+    {
+      "title": "Technical Chief of Staff to the CTO",
+      "company": "Clover Health",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-chief-of-staff-to-the-cto-clover-health-1137883",
+      "source": "Remote OK",
+      "families": [
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T04:30:14+00:00"
+    },
+    {
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
+      "source": "Remote OK",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T03:30:17+00:00"
+    },
+    {
+      "title": "P2P Regional Operations - Africa",
+      "company": "Bybit",
+      "location": "Africa",
+      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T02:45:13+00:00"
+    },
+    {
+      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
+      "company": "Everpure",
+      "location": "UK Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T01:15:13+00:00"
+    },
+    {
+      "title": "Customer Success Engineer",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:30:12+00:00"
+    },
+    {
+      "title": "Customer Success LATAM",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:15:13+00:00"
+    },
+    {
+      "title": "Customer Success Architect - East",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-east-gitlab-1137861",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:13+00:00"
     },
     {
       "title": "Engineering Lead, Clinical Operations",
@@ -60,18 +204,6 @@
       ],
       "salary": "",
       "posted": "2026-11-19T19:15:15+00:00"
-    },
-    {
-      "title": "Enterprise Customer Success Manager",
-      "company": "BeyondTrust",
-      "location": "North America",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-beyondtrust-1137823",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T13:00:02+00:00"
     },
     {
       "title": "Customer Success Manager",
@@ -134,78 +266,6 @@
       "posted": "2026-11-19T10:30:01+00:00"
     },
     {
-      "title": "Strategy & Operations Coach APAC",
-      "company": "Mento",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T00:00:15+00:00"
-    },
-    {
-      "title": "Operations Expert with Python for AI Supply Chain Task Design",
-      "company": "Toptal",
-      "location": "Anywhere in the World",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T15:01:09+00:00"
-    },
-    {
-      "title": "Partner Operations Manager",
-      "company": "Mecka",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-01T00:00:08+00:00"
-    },
-    {
-      "title": "Cloud Engineer Automation",
-      "company": "Smile Digital Health",
-      "location": "Toronto, Ontario",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "source": "Remote OK",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-10-29T16:00:03+00:00"
-    },
-    {
-      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
-      "source": "Arbeitnow",
-      "families": [
-        "business"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Sachbearbeiter:in Operations / Backoffice Support",
-      "company": "Coopers Group AG",
-      "location": "Basel",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
       "title": "Senior Account Manager - Warehouse Automation - BENELUX",
       "company": "Exotec",
       "location": "Netherlands",
@@ -239,7 +299,7 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 6
     },
     {
       "source": "Himalayas",
@@ -249,12 +309,12 @@
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 11
+      "matches": 16
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 4
+      "matches": 2
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
