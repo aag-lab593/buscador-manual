@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:15:23.435576+00:00",
+  "updated_at": "2026-11-22T00:20:44.048565+00:00",
   "jobs": [
     {
       "title": "Onboarding Manager, France",
@@ -72,6 +72,30 @@
       ],
       "salary": "",
       "posted": "2026-11-21T13:06:21+00:00"
+    },
+    {
+      "title": "Healthcare Stop Loss Operations Specialist",
+      "company": "Valenz",
+      "location": "",
+      "url": "https://himalayas.app/companies/valenz/jobs/healthcare-stop-loss-operations-specialist?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1795303620"
+    },
+    {
+      "title": "AI & Automation Marketing Lead",
+      "company": "WRS Health",
+      "location": "",
+      "url": "https://himalayas.app/companies/wrs-health/jobs/ai-automation-marketing-lead?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "ai"
+      ],
+      "salary": "",
+      "posted": "1795303456"
     },
     {
       "title": "Customer Success Manager",
@@ -304,7 +328,7 @@
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 2
     },
     {
       "source": "Remote OK",
