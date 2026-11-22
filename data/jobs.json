@@ -1,101 +1,91 @@
 {
-  "updated_at": "2026-11-22T00:20:44.048565+00:00",
+  "updated_at": "2026-11-22T19:39:56.845953+00:00",
   "jobs": [
     {
-      "title": "Onboarding Manager, France",
-      "company": "Apaleo",
-      "location": "France,  Germany",
-      "url": "https://jobicy.com/jobs/163714-onboarding-manager-france",
-      "source": "Jobicy",
-      "families": [
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T15:08:36+00:00"
-    },
-    {
-      "title": "Risk Operations Specialist, AMER",
-      "company": "Binance",
-      "location": "Argentina,  Costa Rica,  Mexico",
-      "url": "https://jobicy.com/jobs/163691-risk-operations-specialist-amer",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T14:26:52+00:00"
-    },
-    {
-      "title": "Staff Tech Enablement Engineer, B2B Operations",
-      "company": "CookUnity",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/163688-staff-tech-enablement-engineer-b2b-operations",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T14:26:17+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Semperis",
-      "location": "France",
-      "url": "https://jobicy.com/jobs/163672-customer-success-manager-64",
+      "title": "Customer Support Specialist (Contract or Intern)",
+      "company": "Eight Sleep",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163855-customer-support-specialist-contract-or-intern",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-21T13:10:24+00:00"
+      "posted": "2026-11-22T15:42:14+00:00"
     },
     {
-      "title": "Commercial Credit Operations Manager",
-      "company": "Stripe",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/163668-commercial-credit-operations-manager",
+      "title": "Senior Customer Success - EMEA",
+      "company": "Filigran",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/163849-senior-customer-success-emea",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T12:06:00+00:00"
+    },
+    {
+      "title": "Principal Security Operations Analyst",
+      "company": "Huntress",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/163845-principal-security-operations-analyst",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-21T13:06:26+00:00"
+      "posted": "2026-11-22T11:58:12+00:00"
     },
     {
-      "title": "Campaign Strategy & Operations Manager",
-      "company": "Stripe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/163665-campaign-strategy-operations-manager-2",
+      "title": "Customer Onboarding Operations Manager",
+      "company": "Dandy",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/163828-customer-onboarding-operations-manager-2",
       "source": "Jobicy",
       "families": [
-        "operations"
+        "operations",
+        "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-21T13:06:21+00:00"
+      "posted": "2026-11-22T11:52:43+00:00"
     },
     {
-      "title": "Healthcare Stop Loss Operations Specialist",
-      "company": "Valenz",
-      "location": "",
-      "url": "https://himalayas.app/companies/valenz/jobs/healthcare-stop-loss-operations-specialist?utm_source=api",
-      "source": "Himalayas",
+      "title": "Revenue Operations Leader, Strategy & Planning",
+      "company": "Contentstack",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
+      "source": "Remote OK",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "1795303620"
+      "posted": "2026-11-21T05:40:08+00:00"
     },
     {
-      "title": "AI & Automation Marketing Lead",
-      "company": "WRS Health",
-      "location": "",
-      "url": "https://himalayas.app/companies/wrs-health/jobs/ai-automation-marketing-lead?utm_source=api",
-      "source": "Himalayas",
+      "title": "VP, Customer Experience Operations",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
+      "source": "Remote OK",
       "families": [
-        "ai"
+        "operations",
+        "customer"
       ],
       "salary": "",
-      "posted": "1795303456"
+      "posted": "2026-11-21T05:20:06+00:00"
+    },
+    {
+      "title": "Sr. Security Operations Manager",
+      "company": "Carrot",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T02:20:05+00:00"
     },
     {
       "title": "Customer Success Manager",
@@ -218,97 +208,13 @@
       "posted": "2026-11-20T00:00:13+00:00"
     },
     {
-      "title": "Engineering Lead, Clinical Operations",
-      "company": "Clover Health",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852",
-      "source": "Remote OK",
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "source": "Arbeitnow",
       "families": [
         "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T19:15:15+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Ping Identity",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ping-identity-1137822",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T12:45:01+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Airtable",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T11:45:01+00:00"
-    },
-    {
-      "title": "Customer Success Engineer, India",
-      "company": "GitLab",
-      "location": "Asia",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-india-gitlab-1137815",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T11:00:01+00:00"
-    },
-    {
-      "title": "Customer Success Engineer, Singapore",
-      "company": "GitLab",
-      "location": "Asia",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-singapore-gitlab-1137814",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T10:45:01+00:00"
-    },
-    {
-      "title": "Customer Success Architect - West",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-west-gitlab-1137813",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T10:30:01+00:00"
-    },
-    {
-      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "source": "Arbeitnow",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-      "source": "Arbeitnow",
-      "families": [
-        "ai"
       ],
       "salary": "",
       "posted": ""
@@ -323,22 +229,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 6
+      "matches": 4
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 2
+      "matches": 0
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 16
+      "matches": 13
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 2
+      "matches": 1
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
