@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:39:56.845953+00:00",
+  "updated_at": "2026-11-23T00:53:58.731748+00:00",
   "jobs": [
     {
       "title": "Customer Support Specialist (Contract or Intern)",
@@ -49,6 +49,18 @@
       ],
       "salary": "",
       "posted": "2026-11-22T11:52:43+00:00"
+    },
+    {
+      "title": "Operations Manager",
+      "company": "Syd Life AI",
+      "location": "",
+      "url": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1795393229"
     },
     {
       "title": "Revenue Operations Leader, Strategy & Planning",
@@ -196,18 +208,6 @@
       "posted": "2026-11-20T00:15:13+00:00"
     },
     {
-      "title": "Customer Success Architect - East",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-east-gitlab-1137861",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T00:00:13+00:00"
-    },
-    {
       "title": "Senior Cloud Operations Engineer (all genders) CH",
       "company": "BSI Software",
       "location": "Homeoffice",
@@ -234,12 +234,12 @@
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 13
+      "matches": 12
     },
     {
       "source": "Arbeitnow",
