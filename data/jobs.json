@@ -1,66 +1,53 @@
 {
-  "updated_at": "2026-11-23T00:53:58.731748+00:00",
+  "updated_at": "2026-11-23T23:53:27.047341+00:00",
   "jobs": [
     {
-      "title": "Customer Support Specialist (Contract or Intern)",
-      "company": "Eight Sleep",
+      "title": "Senior Manager, Revenue Operations Systems",
+      "company": "Karbon",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/164006-senior-manager-revenue-operations-systems",
+      "source": "Jobicy",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T18:24:55+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "AssetWatch",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/163991-customer-success-manager-65",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T17:55:28+00:00"
+    },
+    {
+      "title": "Sr. Human Resources Business Partner",
+      "company": "Vynca",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/163855-customer-support-specialist-contract-or-intern",
+      "url": "https://jobicy.com/jobs/163977-sr-human-resources-business-partner",
       "source": "Jobicy",
       "families": [
-        "customer"
+        "people"
       ],
       "salary": "",
-      "posted": "2026-11-22T15:42:14+00:00"
+      "posted": "2026-11-23T17:26:28+00:00"
     },
     {
-      "title": "Senior Customer Success - EMEA",
-      "company": "Filigran",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/163849-senior-customer-success-emea",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T12:06:00+00:00"
-    },
-    {
-      "title": "Principal Security Operations Analyst",
-      "company": "Huntress",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/163845-principal-security-operations-analyst",
+      "title": "Senior Director, Commercial Operations",
+      "company": "Skillsoft",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163974-senior-director-commercial-operations-2",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-22T11:58:12+00:00"
-    },
-    {
-      "title": "Customer Onboarding Operations Manager",
-      "company": "Dandy",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/163828-customer-onboarding-operations-manager-2",
-      "source": "Jobicy",
-      "families": [
-        "operations",
-        "implementation"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T11:52:43+00:00"
-    },
-    {
-      "title": "Operations Manager",
-      "company": "Syd Life AI",
-      "location": "",
-      "url": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
-      "source": "Himalayas",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "1795393229"
+      "posted": "2026-11-23T17:26:23+00:00"
     },
     {
       "title": "Revenue Operations Leader, Strategy & Planning",
@@ -208,6 +195,18 @@
       "posted": "2026-11-20T00:15:13+00:00"
     },
     {
+      "title": "Customer Success Manager (m/w/d) - 100% Remote",
+      "company": "ProviPanda GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-442206",
+      "source": "Arbeitnow",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": ""
+    },
+    {
       "title": "Senior Cloud Operations Engineer (all genders) CH",
       "company": "BSI Software",
       "location": "Homeoffice",
@@ -234,7 +233,7 @@
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 0
     },
     {
       "source": "Remote OK",
@@ -244,7 +243,7 @@
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 1
+      "matches": 2
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
