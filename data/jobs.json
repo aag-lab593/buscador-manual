@@ -1,53 +1,41 @@
 {
-  "updated_at": "2026-11-23T23:53:27.047341+00:00",
+  "updated_at": "2026-11-24T22:26:21.568808+00:00",
   "jobs": [
     {
-      "title": "Senior Manager, Revenue Operations Systems",
-      "company": "Karbon",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/164006-senior-manager-revenue-operations-systems",
-      "source": "Jobicy",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-23T18:24:55+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "AssetWatch",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/163991-customer-success-manager-65",
+      "title": "Client Success Manager",
+      "company": "BlackCloak",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/164188-client-success-manager-7",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-23T17:55:28+00:00"
+      "posted": "2026-11-24T18:53:09+00:00"
     },
     {
-      "title": "Sr. Human Resources Business Partner",
-      "company": "Vynca",
+      "title": "Client Success Manager",
+      "company": "SeatGeek",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/163977-sr-human-resources-business-partner",
+      "url": "https://jobicy.com/jobs/164186-client-success-manager-6",
       "source": "Jobicy",
       "families": [
-        "people"
+        "customer"
       ],
       "salary": "",
-      "posted": "2026-11-23T17:26:28+00:00"
+      "posted": "2026-11-24T18:53:06+00:00"
     },
     {
-      "title": "Senior Director, Commercial Operations",
-      "company": "Skillsoft",
+      "title": "VP, Strategy and Operations",
+      "company": "Attentive",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/163974-senior-director-commercial-operations-2",
+      "url": "https://jobicy.com/jobs/164158-vp-strategy-and-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-23T17:26:23+00:00"
+      "posted": "2026-11-24T15:19:43+00:00"
     },
     {
       "title": "Revenue Operations Leader, Strategy & Planning",
@@ -195,22 +183,22 @@
       "posted": "2026-11-20T00:15:13+00:00"
     },
     {
-      "title": "Customer Success Manager (m/w/d) - 100% Remote",
-      "company": "ProviPanda GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-442206",
+      "title": "Senior Business Analyst (Data & Process Transformation)",
+      "company": "Coopers Group AG",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671",
       "source": "Arbeitnow",
       "families": [
-        "customer"
+        "business"
       ],
       "salary": "",
       "posted": ""
     },
     {
-      "title": "Senior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "title": "Customer Operations Specialist",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
       "source": "Arbeitnow",
       "families": [
         "operations"
@@ -228,11 +216,12 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 3
     },
     {
       "source": "Himalayas",
-      "status": "ok",
+      "status": "error",
+      "message": "HTTP Error 521: <none>",
       "matches": 0
     },
     {
