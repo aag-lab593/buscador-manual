@@ -1,41 +1,113 @@
 {
-  "updated_at": "2026-11-24T22:26:21.568808+00:00",
+  "updated_at": "2026-11-25T21:41:34.544532+00:00",
   "jobs": [
     {
-      "title": "Client Success Manager",
-      "company": "BlackCloak",
+      "title": "Sr. Customer Success Manager",
+      "company": "BigID",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/164188-client-success-manager-7",
+      "url": "https://jobicy.com/jobs/164294-sr-customer-success-manager-10",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-24T18:53:09+00:00"
+      "posted": "2026-11-25T14:27:31+00:00"
     },
     {
-      "title": "Client Success Manager",
-      "company": "SeatGeek",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/164186-client-success-manager-6",
+      "title": "Associate Customer Support Specialist",
+      "company": "Fleetio",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/164290-associate-customer-support-specialist",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-24T18:53:06+00:00"
+      "posted": "2026-11-25T14:26:55+00:00"
     },
     {
-      "title": "VP, Strategy and Operations",
-      "company": "Attentive",
+      "title": "Sr People Partner",
+      "company": "Vantage",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/164260-sr-people-partner",
+      "source": "Jobicy",
+      "families": [
+        "people"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T12:35:28+00:00"
+    },
+    {
+      "title": "Director, Enterprise Sales Field Operations, Americas",
+      "company": "Fivetran",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/164158-vp-strategy-and-operations",
+      "url": "https://jobicy.com/jobs/164250-director-enterprise-sales-field-operations-americas",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-24T15:19:43+00:00"
+      "posted": "2026-11-25T12:34:54+00:00"
+    },
+    {
+      "title": "Sr EHR Implementation Manager",
+      "company": "Natera",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
+      "source": "Remote OK",
+      "families": [
+        "implementation"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T11:20:04+00:00"
+    },
+    {
+      "title": "Portfolio Customer Success Manager",
+      "company": "LastPass",
+      "location": "Canada Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-portfolio-customer-success-manager-lastpass-1138083",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T09:20:05+00:00"
+    },
+    {
+      "title": "Revenue Operations Analyst",
+      "company": "Augment",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T08:00:11+00:00"
+    },
+    {
+      "title": "Real Estate Executive Assistant 21370",
+      "company": "Wing Assistant",
+      "location": "Philippines",
+      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+      "source": "Remote OK",
+      "families": [
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:20+00:00"
+    },
+    {
+      "title": "Revenue Operations Manager",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:09+00:00"
     },
     {
       "title": "Revenue Operations Leader, Strategy & Planning",
@@ -109,102 +181,6 @@
       ],
       "salary": "",
       "posted": "2026-11-20T08:40:14+00:00"
-    },
-    {
-      "title": "Technical Chief of Staff to the CTO",
-      "company": "Clover Health",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-chief-of-staff-to-the-cto-clover-health-1137883",
-      "source": "Remote OK",
-      "families": [
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T04:30:14+00:00"
-    },
-    {
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
-      "source": "Remote OK",
-      "families": [
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T03:30:17+00:00"
-    },
-    {
-      "title": "P2P Regional Operations - Africa",
-      "company": "Bybit",
-      "location": "Africa",
-      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T02:45:13+00:00"
-    },
-    {
-      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
-      "company": "Everpure",
-      "location": "UK Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T01:15:13+00:00"
-    },
-    {
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T00:30:12+00:00"
-    },
-    {
-      "title": "Customer Success LATAM",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T00:15:13+00:00"
-    },
-    {
-      "title": "Senior Business Analyst (Data & Process Transformation)",
-      "company": "Coopers Group AG",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671",
-      "source": "Arbeitnow",
-      "families": [
-        "business"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Customer Operations Specialist",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -216,23 +192,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 4
     },
     {
       "source": "Himalayas",
-      "status": "error",
-      "message": "HTTP Error 521: <none>",
+      "status": "ok",
       "matches": 0
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 12
+      "matches": 11
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 2
+      "matches": 0
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
