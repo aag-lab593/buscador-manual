@@ -1,65 +1,151 @@
 {
-  "updated_at": "2026-11-25T21:41:34.544532+00:00",
+  "updated_at": "2026-11-26T21:31:23.029185+00:00",
   "jobs": [
     {
-      "title": "Sr. Customer Success Manager",
-      "company": "BigID",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/164294-sr-customer-success-manager-10",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-25T14:27:31+00:00"
-    },
-    {
-      "title": "Associate Customer Support Specialist",
-      "company": "Fleetio",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/164290-associate-customer-support-specialist",
-      "source": "Jobicy",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-25T14:26:55+00:00"
-    },
-    {
-      "title": "Sr People Partner",
-      "company": "Vantage",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/164260-sr-people-partner",
-      "source": "Jobicy",
-      "families": [
-        "people"
-      ],
-      "salary": "",
-      "posted": "2026-11-25T12:35:28+00:00"
-    },
-    {
-      "title": "Director, Enterprise Sales Field Operations, Americas",
-      "company": "Fivetran",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/164250-director-enterprise-sales-field-operations-americas",
+      "title": "Virtual Assistant - AI, Marketing and Operations",
+      "company": "Fresh Prints",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/164433-virtual-assistant-ai-marketing-and-operations",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-25T12:34:54+00:00"
+      "posted": "2026-11-26T14:54:11+00:00"
     },
     {
-      "title": "Sr EHR Implementation Manager",
-      "company": "Natera",
+      "title": "Engagement Manager, Customer Success",
+      "company": "Nash",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/164427-engagement-manager-customer-success",
+      "source": "Jobicy",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-26T14:53:39+00:00"
+    },
+    {
+      "title": "Business Operations Manager",
+      "company": "Motive",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/164401-business-operations-manager-3",
+      "source": "Jobicy",
+      "families": [
+        "operations",
+        "business"
+      ],
+      "salary": "",
+      "posted": "2026-11-26T14:23:27+00:00"
+    },
+    {
+      "title": "German Speaking Customer Support Agent | Remote",
+      "company": "Lingonova",
+      "location": "",
+      "url": "https://himalayas.app/companies/lingonova/jobs/german-speaking-customer-support-agent-remote?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "1795728570"
+    },
+    {
+      "title": "Client Success Director, West (R-20150)",
+      "company": "Dun & Bradstreet",
       "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-director-west-r-20150-dun-bradstreet-1138116",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T09:00:29+00:00"
+    },
+    {
+      "title": "Senior Implementation Consultant - Pharmacovigilance Reporting (Remote)",
+      "company": "Veeva Systems",
+      "location": "UK Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-implementation-consultant-pharmacovigilance-reporting-remote-veeva-systems-1138115",
       "source": "Remote OK",
       "families": [
         "implementation"
       ],
       "salary": "",
-      "posted": "2026-11-24T11:20:04+00:00"
+      "posted": "2026-11-25T09:00:28+00:00"
+    },
+    {
+      "title": "Client Success Manager, Chicago/Midwest (R-20152)",
+      "company": "Dun & Bradstreet",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-manager-chicago-midwest-r-20152-dun-bradstreet-1138114",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T08:40:33+00:00"
+    },
+    {
+      "title": "Technical Customer Success Manager - xMatters",
+      "company": "Everbridge",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-success-manager-xmatters-everbridge-1138113",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T08:40:30+00:00"
+    },
+    {
+      "title": "Customer Success Engineer",
+      "company": "Ethena",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-ethena-1138112",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T08:21:05+00:00"
+    },
+    {
+      "title": "Sr. Customer Success Manager I",
+      "company": "Lyra Health",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-customer-success-manager-i-lyra-health-1138106",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T07:28:50+00:00"
+    },
+    {
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+      "source": "Remote OK",
+      "families": [
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T00:00:29+00:00"
+    },
+    {
+      "title": "Junior Talent Operations Specialist",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+      "source": "Remote OK",
+      "families": [
+        "operations",
+        "people"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T00:00:28+00:00"
     },
     {
       "title": "Portfolio Customer Success Manager",
@@ -122,65 +208,40 @@
       "posted": "2026-11-21T05:40:08+00:00"
     },
     {
-      "title": "VP, Customer Experience Operations",
-      "company": "Ping Identity",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
-      "source": "Remote OK",
-      "families": [
-        "operations",
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:20:06+00:00"
-    },
-    {
-      "title": "Sr. Security Operations Manager",
-      "company": "Carrot",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
-      "source": "Remote OK",
+      "title": "Werkstudent / Praktikant (m/w/d) – Product Management, Operations & International Expansion",
+      "company": "Strive Nutrition GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-product-management-operations-international-expansion-berlin-81456",
+      "source": "Arbeitnow",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-21T02:20:05+00:00"
+      "posted": ""
     },
     {
-      "title": "Customer Success Manager",
-      "company": "Salsify",
-      "location": "Europe",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-salsify-1137909",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T10:00:06+00:00"
-    },
-    {
-      "title": "Senior Associate, Finance and Accounting Operations",
-      "company": "Ensono",
-      "location": "Latin America",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-associate-finance-and-accounting-operations-ensono-1137905",
-      "source": "Remote OK",
+      "title": "Werkstudent / Praktikant (m/w/d) – Product Management, Operations & International Expansion",
+      "company": "Strive Nutrition GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-product-management-operations-international-expansion-berlin-388895",
+      "source": "Arbeitnow",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-20T09:20:16+00:00"
+      "posted": ""
     },
     {
-      "title": "Data Strategy Operations Manager",
-      "company": "Abnormal",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-      "source": "Remote OK",
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "source": "Arbeitnow",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-20T08:40:14+00:00"
+      "posted": ""
     }
   ],
   "sources": [
@@ -192,22 +253,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 4
+      "matches": 3
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 0
+      "matches": 1
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 11
+      "matches": 13
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 0
+      "matches": 3
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
