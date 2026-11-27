@@ -1,54 +1,77 @@
 {
-  "updated_at": "2026-11-26T21:31:23.029185+00:00",
+  "updated_at": "2026-11-27T21:17:16.013164+00:00",
   "jobs": [
     {
-      "title": "Virtual Assistant - AI, Marketing and Operations",
-      "company": "Fresh Prints",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/164433-virtual-assistant-ai-marketing-and-operations",
+      "title": "Strategy & Operations Associate",
+      "company": "BJAK",
+      "location": "China",
+      "url": "https://jobicy.com/jobs/164579-strategy-operations-associate",
       "source": "Jobicy",
       "families": [
         "operations"
       ],
       "salary": "",
-      "posted": "2026-11-26T14:54:11+00:00"
+      "posted": "2026-11-27T16:26:22+00:00"
     },
     {
-      "title": "Engagement Manager, Customer Success",
-      "company": "Nash",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/164427-engagement-manager-customer-success",
+      "title": "Customer Success Manager",
+      "company": "UpGuard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/164576-customer-success-manager-67",
       "source": "Jobicy",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "2026-11-26T14:53:39+00:00"
+      "posted": "2026-11-27T16:26:17+00:00"
     },
     {
-      "title": "Business Operations Manager",
-      "company": "Motive",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/164401-business-operations-manager-3",
-      "source": "Jobicy",
-      "families": [
-        "operations",
-        "business"
-      ],
-      "salary": "",
-      "posted": "2026-11-26T14:23:27+00:00"
-    },
-    {
-      "title": "German Speaking Customer Support Agent | Remote",
-      "company": "Lingonova",
+      "title": "Customer Success Manager, LATAM",
+      "company": "AlgoSec",
       "location": "",
-      "url": "https://himalayas.app/companies/lingonova/jobs/german-speaking-customer-support-agent-remote?utm_source=api",
+      "url": "https://himalayas.app/companies/algosec/jobs/customer-success-manager-latam?utm_source=api",
       "source": "Himalayas",
       "families": [
         "customer"
       ],
       "salary": "",
-      "posted": "1795728570"
+      "posted": "1795810668"
+    },
+    {
+      "title": "E-commerce Operations & Data Analyst",
+      "company": "Pavago",
+      "location": "",
+      "url": "https://himalayas.app/companies/pavago/jobs/e-commerce-operations-data-analyst?utm_source=api",
+      "source": "Himalayas",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "1795810595"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Outmarket AI",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-outmarket-ai-1138189",
+      "source": "Remote OK",
+      "families": [
+        "customer"
+      ],
+      "salary": "",
+      "posted": "2026-11-26T13:00:26+00:00"
+    },
+    {
+      "title": "Support Operations Lead",
+      "company": "Zip",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188",
+      "source": "Remote OK",
+      "families": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-26T12:40:29+00:00"
     },
     {
       "title": "Client Success Director, West (R-20150)",
@@ -146,102 +169,6 @@
       ],
       "salary": "",
       "posted": "2026-11-25T00:00:28+00:00"
-    },
-    {
-      "title": "Portfolio Customer Success Manager",
-      "company": "LastPass",
-      "location": "Canada Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-portfolio-customer-success-manager-lastpass-1138083",
-      "source": "Remote OK",
-      "families": [
-        "customer"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T09:20:05+00:00"
-    },
-    {
-      "title": "Revenue Operations Analyst",
-      "company": "Augment",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T08:00:11+00:00"
-    },
-    {
-      "title": "Real Estate Executive Assistant 21370",
-      "company": "Wing Assistant",
-      "location": "Philippines",
-      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
-      "source": "Remote OK",
-      "families": [
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T00:00:20+00:00"
-    },
-    {
-      "title": "Revenue Operations Manager",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T00:00:09+00:00"
-    },
-    {
-      "title": "Revenue Operations Leader, Strategy & Planning",
-      "company": "Contentstack",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
-      "source": "Remote OK",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:40:08+00:00"
-    },
-    {
-      "title": "Werkstudent / Praktikant (m/w/d) – Product Management, Operations & International Expansion",
-      "company": "Strive Nutrition GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-product-management-operations-international-expansion-berlin-81456",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Werkstudent / Praktikant (m/w/d) – Product Management, Operations & International Expansion",
-      "company": "Strive Nutrition GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-product-management-operations-international-expansion-berlin-388895",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
-    },
-    {
-      "title": "Junior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "source": "Arbeitnow",
-      "families": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": ""
     }
   ],
   "sources": [
@@ -253,22 +180,22 @@
     {
       "source": "Jobicy",
       "status": "ok",
-      "matches": 3
+      "matches": 2
     },
     {
       "source": "Himalayas",
       "status": "ok",
-      "matches": 1
+      "matches": 2
     },
     {
       "source": "Remote OK",
       "status": "ok",
-      "matches": 13
+      "matches": 10
     },
     {
       "source": "Arbeitnow",
       "status": "ok",
-      "matches": 3
+      "matches": 0
     }
   ],
   "scope": "Public remote listings; Ecuador eligibility unverified"
